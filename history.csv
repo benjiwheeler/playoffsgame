@@ -1,0 +1,1807 @@
+# lines that start with a pound, and empty lines, will be ignored
+# year,num_rounds,round,best_of,name,seed,games_won
+#1948,3,3,7,Philadelphia Warriors,1,2
+#1948,3,3,7,Baltimore Bullets,2,4
+#1948,3,2,7,St. Louis Bombers,1,3
+#1948,3,2,7,Philadelphia Warriors,1,4
+#1948,3,2,3,Baltimore Bullets,2,2
+#1948,3,2,3,Chicago Stags,3,0
+#1948,3,1,3,Baltimore Bullets,2,2
+#1948,3,1,3,New York Knicks,2,1
+#1948,3,1,3,Chicago Stags,3,2
+#1948,3,1,3,Boston Celtics,3,1
+#1949,3,3,7,Minneapolis Lakers,2,4
+#1949,3,3,7,Washington Capitols,1,2
+#1949,3,2,3,Rochester Royals,1,0
+#1949,3,2,3,Minneapolis Lakers,2,2
+#1949,3,2,3,Washington Capitols,1,2
+#1949,3,2,3,New York Knicks,2,1
+#1949,3,1,3,Rochester Royals,1,2
+#1949,3,1,3,St. Louis Bombers,4,0
+#1949,3,1,3,Minneapolis Lakers,2,2
+#1949,3,1,3,Chicago Stags,3,0
+#1949,3,1,3,Washington Capitols,1,2
+#1949,3,1,3,Philadelphia Warriors,4,0
+#1949,3,1,3,New York Knicks,2,2
+#1949,3,1,3,Baltimore Bullets,3,1
+#1950,4,4,7,Minneapolis Lakers,1,4
+#1950,4,4,7,Syracuse Nationals,1,2
+#1950,4,3,3,Minneapolis Lakers,1,2
+#1950,4,3,3,Anderson Packers,2,0
+#1950,4,2,3,Indianapolis Olympians,1,1
+#1950,4,2,3,Anderson Packers,2,2
+#1950,4,2,3,Syracuse Nationals,1,2
+#1950,4,2,3,New York Knicks,2,1
+#1950,4,2,3,Minneapolis Lakers,1,2
+#1950,4,2,3,Fort Wayne Pistons,3,0
+#1950,4,1,3,Indianapolis Olympians,1,2
+#1950,4,1,3,Sheboygan Red Skins,4,1
+#1950,4,1,3,Anderson Packers,2,2
+#1950,4,1,3,Tri-Cities Blackhawks,3,1
+#1950,4,1,3,Syracuse Nationals,1,2
+#1950,4,1,3,Philadelphia Warriors,4,0
+#1950,4,1,3,New York Knicks,2,2
+#1950,4,1,3,Washington Capitols,3,0
+#1950,4,1,3,Minneapolis Lakers,1,2
+#1950,4,1,3,Chicago Stags,4,0
+#1950,4,1,3,Rochester Royals,2,0
+#1950,4,1,3,Fort Wayne Pistons,3,2
+#1951,3,3,7,Rochester Royals,2,4
+#1951,3,3,7,New York Knicks,3,3
+#1951,3,2,5,Minneapolis Lakers,1,1
+#1951,3,2,5,Rochester Royals,2,3
+#1951,3,2,5,New York Knicks,3,3
+#1951,3,2,5,Syracuse Nationals,4,2
+#1951,3,1,3,Minneapolis Lakers,1,2
+#1951,3,1,3,Indianapolis Olympians,4,1
+#1951,3,1,3,Rochester Royals,2,2
+#1951,3,1,3,Fort Wayne Pistons,3,1
+#1951,3,1,3,Philadelphia Warriors,1,0
+#1951,3,1,3,Syracuse Nationals,4,2
+#1951,3,1,3,Boston Celtics,2,0
+#1951,3,1,3,New York Knicks,3,2
+#1952,3,3,7,Minneapolis Lakers,2,4
+#1952,3,3,7,New York Knicks,3,3
+#1952,3,2,5,Rochester Royals,1,1
+#1952,3,2,5,Minneapolis Lakers,2,3
+#1952,3,2,5,New York Knicks,3,3
+#1952,3,2,5,Syracuse Nationals,1,1
+#1952,3,1,3,Rochester Royals,1,2
+#1952,3,1,3,Fort Wayne Pistons,4,0
+#1952,3,1,3,Minneapolis Lakers,2,2
+#1952,3,1,3,Indianapolis Olympians,3,0
+#1952,3,1,3,Syracuse Nationals,1,2
+#1952,3,1,3,Philadelphia Warriors,4,1
+#1952,3,1,3,Boston Celtics,2,1
+#1952,3,1,3,New York Knicks,3,2
+#1953,3,3,7,Minneapolis Lakers,1,4
+#1953,3,3,7,New York Knicks,1,1
+#1953,3,2,5,Minneapolis Lakers,1,3
+#1953,3,2,5,Fort Wayne Pistons,3,2
+#1953,3,2,5,New York Knicks,1,3
+#1953,3,2,5,Boston Celtics,3,1
+#1953,3,1,3,Minneapolis Lakers,1,2
+#1953,3,1,3,Indianapolis Olympians,4,0
+#1953,3,1,3,Rochester Royals,2,1
+#1953,3,1,3,Fort Wayne Pistons,3,2
+#1953,3,1,3,New York Knicks,1,2
+#1953,3,1,3,Baltimore Bullets,4,0
+#1953,3,1,3,Syracuse Nationals,2,0
+#1953,3,1,3,Boston Celtics,3,2
+## data is definitely missing here; it was a round robin format
+#1954,3,3,7,Minneapolis Lakers,1,4
+#1954,3,3,7,Syracuse Nationals,3,3
+#1954,3,2,3,Minneapolis Lakers,1,2
+#1954,3,2,3,Rochester Royals,2,1
+#1954,3,2,3,Syracuse Nationals,2,2
+#1954,3,2,3,Boston Celtics,3,0
+#1955,3,3,7,Fort Wayne Pistons,1,3
+#1955,3,3,7,Syracuse Nationals,1,4
+#1955,3,2,5,Fort Wayne Pistons,1,3
+#1955,3,2,5,Minneapolis Lakers,2,1
+#1955,3,2,5,Syracuse Nationals,1,3
+#1955,3,2,5,Boston Celtics,3,1
+#1955,3,1,3,Minneapolis Lakers,2,2
+#1955,3,1,3,Rochester Royals,3,1
+#1955,3,1,3,New York Knicks,2,1
+#1955,3,1,3,Boston Celtics,3,2
+#1956,3,3,7,Fort Wayne Pistons,1,1
+#1956,3,3,7,Philadelphia Warriors,1,4
+#1956,3,2,5,Fort Wayne Pistons,1,3
+#1956,3,2,5,St. Louis Hawks,3,2
+#1956,3,2,5,Philadelphia Warriors,1,3
+#1956,3,2,5,Syracuse Nationals,3,2
+#1956,3,1,3,Minneapolis Lakers,2,1
+#1956,3,1,3,St. Louis Hawks,3,2
+#1956,3,1,3,Boston Celtics,2,1
+#1956,3,1,3,Syracuse Nationals,3,2
+#1956,3,1,1,Minneapolis Lakers,2,1
+#1956,3,1,1,St. Louis Hawks,3,0
+#1956,3,1,1,Syracuse Nationals,3,1
+#1956,3,1,1,New York Knicks,4,0
+#1957,3,3,7,St. Louis Hawks,1,3
+#1957,3,3,7,Boston Celtics,1,4
+#1957,3,2,5,St. Louis Hawks,1,3
+#1957,3,2,5,Minneapolis Lakers,2,0
+#1957,3,2,5,Boston Celtics,1,3
+#1957,3,2,5,Syracuse Nationals,2,0
+#1957,3,1,3,Minneapolis Lakers,2,2
+#1957,3,1,3,Fort Wayne Pistons,3,0
+#1957,3,1,3,Syracuse Nationals,2,2
+#1957,3,1,3,Philadelphia Warriors,3,0
+#1957,3,1,1,St. Louis Hawks,1,1
+#1957,3,1,1,Fort Wayne Pistons,3,0
+#1957,3,1,1,St. Louis Hawks,1,1
+#1957,3,1,1,Minneapolis Lakers,2,0
+#1958,3,3,7,St. Louis Hawks,1,4
+#1958,3,3,7,Boston Celtics,1,2
+#1958,3,2,7,St. Louis Hawks,1,4
+#1958,3,2,7,Detroit Pistons,2,1
+#1958,3,2,7,Boston Celtics,1,4
+#1958,3,2,7,Philadelphia Warriors,3,1
+#1958,3,1,3,Detroit Pistons,2,2
+#1958,3,1,3,Cincinnati Royals,3,0
+#1958,3,1,3,Syracuse Nationals,2,1
+#1958,3,1,3,Philadelphia Warriors,3,2
+#1959,3,3,7,Minneapolis Lakers,2,0
+#1959,3,3,7,Boston Celtics,1,4
+#1959,3,2,7,St. Louis Hawks,1,2
+#1959,3,2,7,Minneapolis Lakers,2,4
+#1959,3,2,7,Boston Celtics,1,4
+#1959,3,2,7,Syracuse Nationals,3,3
+#1959,3,1,3,Minneapolis Lakers,2,2
+#1959,3,1,3,Detroit Pistons,3,1
+#1959,3,1,3,New York Knicks,2,0
+#1959,3,1,3,Syracuse Nationals,3,2
+#1960,3,3,7,St. Louis Hawks,1,3
+#1960,3,3,7,Boston Celtics,1,4
+#1960,3,2,7,St. Louis Hawks,1,4
+#1960,3,2,7,Minneapolis Lakers,3,3
+#1960,3,2,7,Boston Celtics,1,4
+#1960,3,2,7,Philadelphia Warrios,2,2
+#1960,3,1,3,Detroit Pistons,2,0
+#1960,3,1,3,Minneapolis Lakers,3,2
+#1960,3,1,3,Philadelphia Warriors,2,2
+#1960,3,1,3,Syracuse Nationals,3,1
+#1961,3,3,7,St. Louis Hawks,1,1
+#1961,3,3,7,Boston Celtics,1,4
+#1961,3,2,7,St. Louis Hawks,1,4
+#1961,3,2,7,Los Angeles Lakers,2,3
+#1961,3,2,7,Boston Celtics,1,4
+#1961,3,2,7,Syracuse Nationals,3,1
+#1961,3,1,5,Los Angeles Lakers,2,3
+#1961,3,1,5,Detroit Pistons,3,2
+#1961,3,1,5,Philadelphia Warriors,2,0
+#1961,3,1,5,Syracuse Nationals,3,3
+#1962,3,3,7,Los Angeles Lakers,1,3
+#1962,3,3,7,Boston Celtics,1,4
+#1962,3,2,7,Los Angeles Lakers,1,4
+#1962,3,2,7,Detroit Pistons,3,2
+#1962,3,2,7,Boston Celtics,1,4
+#1962,3,2,7,Phildelphia Warriors,2,3
+#1962,3,1,5,Cincinnati Royals,2,1
+#1962,3,1,5,Detroit Pistons,3,3
+#1962,3,1,5,Philadelphia Warriors,2,3
+#1962,3,1,5,Syracuse Nationals,3,2
+#1963,3,3,7,Los Angeles Lakers,1,2
+#1963,3,3,7,Boston Celtics,1,4
+#1963,3,2,7,Los Angeles Lakers,1,4
+#1963,3,2,7,St. Louis Hawks,2,3
+#1963,3,2,7,Boston Celtics,1,4
+#1963,3,2,7,Cincinnati Royals,3,3
+#1963,3,1,5,St. Louis Hawks,2,3
+#1963,3,1,5,Detroit Pistons,3,1
+#1963,3,1,5,Syracuse Nationals,2,2
+#1963,3,1,5,Cincinnati Royals,3,3
+#1964,3,3,7,San Francisco Warriors,1,1
+#1964,3,3,7,Boston Celtics,1,4
+#1964,3,2,7,San Francisco Warriors,1,4
+#1964,3,2,7,St. Louis Hawks,2,3
+#1964,3,2,7,Boston Celtics,1,4
+#1964,3,2,7,Cincinnati Royals,2,1
+#1964,3,1,5,St. Louis Hawks,2,3
+#1964,3,1,5,Los Angeles Lakers,3,2
+#1964,3,1,5,Cincinnati Royals,2,3
+#1964,3,1,5,Philadelphia 76ers,3,2
+#1965,3,3,7,Los Angeles Lakers,1,1
+#1965,3,3,7,Boston Celtics,1,4
+#1965,3,2,7,Los Angeles Lakers,1,4
+#1965,3,2,7,Baltimore Bullets,3,2
+#1965,3,2,7,Boston Celtics,1,4
+#1965,3,2,7,Philadelphia 76ers,3,3
+#1965,3,1,5,St. Louis Hawks,2,1
+#1965,3,1,5,Baltimore Bullets,3,3
+#1965,3,1,5,Cincinnati Royals,2,1
+#1965,3,1,5,Philadelphia 76ers,3,3
+#1966,3,3,7,Los Angeles Lakers,1,3
+#1966,3,3,7,Boston Celtics,2,4
+#1966,3,2,7,Los Angeles Lakers,1,4
+#1966,3,2,7,St. Louis Hawks,3,3
+#1966,3,2,7,Boston Celtics,2,4
+#1966,3,2,7,Philadelphia 76ers,1,1
+#1966,3,1,5,Baltimore Bullets,2,0
+#1966,3,1,5,St. Louis Hawks,3,3
+#1966,3,1,5,Boston Celtics,2,3
+#1966,3,1,5,Cincinnati Royals,3,2
+1967,3,3,7,San Francisco Warriors,1,2
+1967,3,3,7,Philadelphia 76ers,1,4
+1967,3,2,7,San Francisco Warriors,1,4
+1967,3,2,7,St. Louis Hawks,2,2
+1967,3,2,7,Philadelphia 76ers,1,4
+1967,3,2,7,Boston Celtics,2,1
+1967,3,1,5,San Francisco Warriors,1,3
+1967,3,1,5,Los Angeles Lakers,3,0
+1967,3,1,5,St. Louis Hawks,2,3
+1967,3,1,5,Chicago Bulls,4,0
+1967,3,1,5,Philadelphia 76ers,1,3
+1967,3,1,5,Cincinnati Royals,3,1
+1967,3,1,5,Boston Celtics,2,3
+1967,3,1,5,New York Knicks,4,1
+1968,3,3,7,Los Angeles Lakers,2,2
+1968,3,3,7,Boston Celtics,2,4
+1968,3,2,7,Los Angeles Lakers,2,4
+1968,3,2,7,San Francisco Warriors,3,0
+1968,3,2,7,Boston Celtics,2,4
+1968,3,2,7,Philadelphia 76ers,1,3
+1968,3,1,7,St. Louis Hawks,1,2
+1968,3,1,7,San Francisco Warriors,3,4
+1968,3,1,7,Los Angeles Lakers,2,4
+1968,3,1,7,Chicago Bulls,4,1
+1968,3,1,7,Philadelphia 76ers,1,4
+1968,3,1,7,New York Knicks,3,2
+1968,3,1,7,Boston Celtics,2,4
+1968,3,1,7,Detroit Pistons,4,2
+1969,3,3,7,Los Angeles Lakers,1,3
+1969,3,3,7,Boston Celtics,4,4
+1969,3,2,7,Los Angeles Lakers,1,4
+1969,3,2,7,Atlanta Hawks,2,1
+1969,3,2,7,Boston Celtics,4,4
+1969,3,2,7,New York Knicks,3,2
+1969,3,1,7,Los Angeles Lakers,1,4
+1969,3,1,7,San Francisco Warriors,3,2
+1969,3,1,7,Atlanta Hawks,2,4
+1969,3,1,7,San Diego Rockets,4,2
+1969,3,1,7,Baltimore Bullets,1,0
+1969,3,1,7,New York Knicks,3,4
+1969,3,1,7,Philadelphia 76ers,2,1
+1969,3,1,7,Boston Celtics,4,4
+1970,3,3,7,Los Angeles Lakers,2,3
+1970,3,3,7,New York Knicks,1,4
+1970,3,2,7,Atlanta Hawks,1,0
+1970,3,2,7,Los Angeles Lakers,2,4
+1970,3,2,7,New York Knicks,1,4
+1970,3,2,7,Milwaukee Bucks,2,1
+1970,3,1,7,Atlanta Hawks,1,4
+1970,3,1,7,Chicago Bulls,4,1
+1970,3,1,7,Los Angeles Lakers,2,4
+1970,3,1,7,Phoenix Suns,3,3
+1970,3,1,7,New York Knicks,1,4
+1970,3,1,7,Baltimore Bullets,3,3
+1970,3,1,7,Milwaukee Bucks,2,4
+1970,3,1,7,Philadelphia 76ers,4,1
+1971,3,3,7,Milwaukee Bucks,1,4
+1971,3,3,7,Baltimore Bullets,2,0
+1971,3,2,7,Milwaukee Bucks,1,4
+1971,3,2,7,Los Angeles Lakers,2,1
+1971,3,2,7,Baltimore Bullets,2,4
+1971,3,2,7,New York Knicks,1,3
+1971,3,1,7,Milwaukee Bucks,1,4
+1971,3,1,7,San Francisco Warriors,2,1
+1971,3,1,7,Los Angeles Lakers,1,4
+1971,3,1,7,Chicago Bulls,2,3
+1971,3,1,7,New York Knicks,1,4
+1971,3,1,7,Atlanta Hawks,2,1
+1971,3,1,7,Baltimore Bullets,1,4
+1971,3,1,7,Philadelphia 76ers,2,3
+1972,3,3,7,Los Angeles Lakers,1,4
+1972,3,3,7,New York Knicks,2,1
+1972,3,2,7,Los Angeles Lakers,1,4
+1972,3,2,7,Milwaukee Bucks,2,2
+1972,3,2,7,New York Knicks,2,4
+1972,3,2,7,Boston Celtics,1,1
+1972,3,1,7,Los Angeles Lakers,1,4
+1972,3,1,7,Chicago Bulls,2,0
+1972,3,1,7,Milwaukee Bucks,1,4
+1972,3,1,7,Golden State Warriors,2,1
+1972,3,1,7,Boston Celtics,1,4
+1972,3,1,7,Atlanta Hawks,2,2
+1972,3,1,7,Baltimore Bullets,1,2
+1972,3,1,7,New York Knicks,2,4
+1973,3,3,7,Los Angeles Lakers,2,1
+1973,3,3,7,New York Knicks,2,4
+1973,3,2,7,Los Angeles Lakers,2,4
+1973,3,2,7,Golden State Warriors,4,1
+1973,3,2,7,New York Knicks,2,4
+1973,3,2,7,Boston Celtics,1,3
+1973,3,1,7,Milwaukee Bucks,1,2
+1973,3,1,7,Golden State Warriors,4,4
+1973,3,1,7,Los Angeles Lakers,2,4
+1973,3,1,7,Chicago Bulls,3,3
+1973,3,1,7,Boston Celtics,1,4
+1973,3,1,7,Atlanta Hawks,4,2
+1973,3,1,7,New York Knicks,2,4
+1973,3,1,7,Baltimore Bullets,3,1
+1974,3,3,7,Milwaukee Bucks,1,3
+1974,3,3,7,Boston Celtics,1,4
+1974,3,2,7,Milwaukee Bucks,1,4
+1974,3,2,7,Chicago Bulls,2,0
+1974,3,2,7,Boston Celtics,1,4
+1974,3,2,7,New York Knicks,2,1
+1974,3,1,7,Milwaukee Bucks,1,4
+1974,3,1,7,Los Angeles Lakers,4,1
+1974,3,1,7,Chicago Bulls,2,4
+1974,3,1,7,Detroit Pistons,3,3
+1974,3,1,7,Boston Celtics,1,4
+1974,3,1,7,Buffalo Braves,4,2
+1974,3,1,7,New York Knicks,2,4
+1974,3,1,7,Capital Bullets,3,3
+1975,4,4,7,Golden State Warriors,1,4
+1975,4,4,7,Washington Bullets,2,0
+1975,4,3,7,Golden State Warriors,1,4
+1975,4,3,7,Chicago Bulls,2,3
+1975,4,3,7,Washington Bullets,2,4
+1975,4,3,7,Boston Celtics,1,2
+1975,4,2,7,Golden State Warriors,1,4
+1975,4,2,7,Seattle Supersonics,4,2
+1975,4,2,7,Chicago Bulls,2,4
+1975,4,2,7,Kansas City-Omaha Kings,3,2
+1975,4,2,7,Boston Celtics,1,4
+1975,4,2,7,Houston Rockets,4,1
+1975,4,2,7,Washington Bullets,2,4
+1975,4,2,7,Buffalo Braves,3,3
+1975,4,1,3,Seattle Supersonics,4,2
+1975,4,1,3,Detroit Pistons,5,1
+1975,4,1,3,Houston Rockets,4,2
+1975,4,1,3,New York Knicks,5,1
+1976,4,4,7,Phoenix Suns,3,2
+1976,4,4,7,Boston Celtics,1,4
+1976,4,3,7,Golden State Warriors,1,3
+1976,4,3,7,Phoenix Suns,3,4
+1976,4,3,7,Boston Celtics,1,4
+1976,4,3,7,Cleveland Cavaliers,2,2
+1976,4,2,7,Golden State Warriors,1,4
+1976,4,2,7,Detroit Pistons,5,2
+1976,4,2,7,Seattle Supersonics,2,2
+1976,4,2,7,Phoenix Suns,3,4
+1976,4,2,7,Boston Celtics,1,4
+1976,4,2,7,Buffalo Braves,5,2
+1976,4,2,7,Cleveland Cavaliers,2,4
+1976,4,2,7,Washington Bullets,3,3
+1976,4,1,3,Milwaukee Bucks,4,1
+1976,4,1,3,Detroit Pistons,5,2
+1976,4,1,3,Philadelphia 76ers,4,1
+1976,4,1,3,Buffalo Braves,5,2
+1977,4,4,7,Portland Trail Blazers,3,4
+1977,4,4,7,Philadelphia 76ers,1,2
+1977,4,3,7,Los Angeles Lakers,1,0
+1977,4,3,7,Portland Trail Blazers,3,4
+1977,4,3,7,Philadelphia 76ers,1,4
+1977,4,3,7,Houston Rockets,2,2
+1977,4,2,7,Los Angeles Lakers,1,4
+1977,4,2,7,Golden State Warriors,4,3
+1977,4,2,7,Denver Nuggets,2,2
+1977,4,2,7,Portland Trail Blazers,3,4
+1977,4,2,7,Philadelphia 76ers,1,4
+1977,4,2,7,Boston Celtics,4,3
+1977,4,2,7,Houston Rockets,2,4
+1977,4,2,7,Washington Bullets,3,2
+1977,4,1,3,Portland Trail Blazers,3,2
+1977,4,1,3,Chicago Bulls,6,1
+1977,4,1,3,Golden State Warriors,4,2
+1977,4,1,3,Detroit Pistons,5,1
+1977,4,1,3,Washington Bullets,3,2
+1977,4,1,3,Cleveland Cavaliers,6,1
+1977,4,1,3,Boston Celtics,4,2
+1977,4,1,3,San Antonio Spurs,5,0
+1978,4,4,7,Seattle Supersonics,4,3
+1978,4,4,7,Washington Bullets,3,4
+1978,4,3,7,Denver Nuggets,2,2
+1978,4,3,7,Seattle Supersonics,4,4
+1978,4,3,7,Washington Bullets,3,4
+1978,4,3,7,Philadelphia 76ers,1,2
+1978,4,2,7,Portland Trail Blazers,1,2
+1978,4,2,7,Seattle Supersonics,4,4
+1978,4,2,7,Denver Nuggets,2,4
+1978,4,2,7,Milwaukee Bucks,6,3
+1978,4,2,7,Philadelphia 76ers,1,4
+1978,4,2,7,New York Knicks,5,0
+1978,4,2,7,San Antonio Spurs,2,2
+1978,4,2,7,Washington Bullets,3,4
+1978,4,1,3,Phoenix Suns,3,0
+1978,4,1,3,Milwaukee Bucks,6,2
+1978,4,1,3,Seattle Supersonics,4,2
+1978,4,1,3,Los Angeles Lakers,5,1
+1978,4,1,3,Washington Bullets,3,2
+1978,4,1,3,Atlanta Hawks,6,0
+1978,4,1,3,Cleveland Cavaliers,4,0
+1978,4,1,3,New York Knicks,5,2
+1979,4,4,7,Seattle Supersonics,1,4
+1979,4,4,7,Washington Bullets,1,1
+1979,4,3,7,Seattle Supersonics,1,4
+1979,4,3,7,Phoenix Suns,3,3
+1979,4,3,7,Washington Bullets,1,4
+1979,4,3,7,San Antonio Spurs,2,3
+1979,4,2,7,Seattle Supersonics,1,4
+1979,4,2,7,Los Angeles Lakers,5,1
+1979,4,2,7,Kansas City Kings,2,1
+1979,4,2,7,Phoenix Suns,3,4
+1979,4,2,7,Washington Bullets,1,4
+1979,4,2,7,Atlanta Hawks,5,3
+1979,4,2,7,San Antonio Spurs,2,4
+1979,4,2,7,Philadelphia 76ers,3,3
+1979,4,1,3,Phoenix Suns,3,2
+1979,4,1,3,Portland Trail Blazers,6,1
+1979,4,1,3,Denver Nuggets,4,1
+1979,4,1,3,Los Angeles Lakers,5,2
+1979,4,1,3,Philadelphia 76ers,3,2
+1979,4,1,3,New Jersey Nets,6,0
+1979,4,1,3,Houston Rockets,4,0
+1979,4,1,3,Atlanta Hawks,5,2
+1980,4,4,7,Los Angeles Lakers,1,4
+1980,4,4,7,Philadelphia 76ers,3,2
+1980,4,3,7,Los Angeles Lakers,1,4
+1980,4,3,7,Seattle Supersonics,3,1
+1980,4,3,7,Philadelphia 76ers,3,4
+1980,4,3,7,Boston Celtics,1,1
+1980,4,2,7,Los Angeles Lakers,1,4
+1980,4,2,7,Phoenix Suns,4,1
+1980,4,2,7,Milwaukee Bucks,2,3
+1980,4,2,7,Seattle Supersonics,3,4
+1980,4,2,7,Boston Celtics,1,4
+1980,4,2,7,Houston Rockets,4,0
+1980,4,2,7,Atlanta Hawks,2,1
+1980,4,2,7,Philadelphia 76ers,3,4
+1980,4,1,3,Seattle Supersonics,3,2
+1980,4,1,3,Portland Trail Blazers,6,1
+1980,4,1,3,Phoenix Suns,4,2
+1980,4,1,3,Kansas City Kings,5,1
+1980,4,1,3,Philadelphia 76ers,3,2
+1980,4,1,3,Washington Bullets,6,0
+1980,4,1,3,Houston Rockets,4,2
+1980,4,1,3,San Antonio Spurs,5,1
+1981,4,4,7,Houston Rockets,6,2
+1981,4,4,7,Boston Celtics,1,4
+1981,4,3,7,Kansas City Kings,5,1
+1981,4,3,7,Houston Rockets,6,4
+1981,4,3,7,Boston Celtics,1,4
+1981,4,3,7,Philadelphia 76ers,3,3
+1981,4,2,7,Phoenix Suns,1,3
+1981,4,2,7,Kansas City Kings,5,4
+1981,4,2,7,San Antonio Spurs,2,3
+1981,4,2,7,Houston Rockets,6,4
+1981,4,2,7,Boston Celtics,1,4
+1981,4,2,7,Chicago Bulls,5,0
+1981,4,2,7,Milwaukee Bucks,2,3
+1981,4,2,7,Philadelphia 76ers,3,4
+1981,4,1,3,Los Angeles Lakers,3,1
+1981,4,1,3,Houston Rockets,6,2
+1981,4,1,3,Portland Trail Blazers,4,1
+1981,4,1,3,Kansas City Kings,5,2
+1981,4,1,3,Philadelphia 76ers,3,2
+1981,4,1,3,Indiana Pacers,6,0
+1981,4,1,3,New York Knicks,4,0
+1981,4,1,3,Chicago Bulls,5,2
+1982,4,4,7,Los Angeles Lakers,1,4
+1982,4,4,7,Philadelphia 76ers,3,2
+1982,4,3,7,Los Angeles Lakers,1,4
+1982,4,3,7,San Antonio Spurs,2,0
+1982,4,3,7,Philadelphia 76ers,3,4
+1982,4,3,7,Boston Celtics,1,3
+1982,4,2,7,Los Angeles Lakers,1,4
+1982,4,2,7,Phoenix Suns,5,0
+1982,4,2,7,San Antonio Spurs,2,4
+1982,4,2,7,Seattle Supersonics,3,1
+1982,4,2,7,Boston Celtics,1,4
+1982,4,2,7,Washington Bullets,5,1
+1982,4,2,7,Milwaukee Bucks,2,2
+1982,4,2,7,Philadelphia 76ers,3,4
+1982,4,1,3,Seattle Supersonics,3,2
+1982,4,1,3,Houston Rockets,6,1
+1982,4,1,3,Denver Nuggets,4,1
+1982,4,1,3,Phoenix Suns,5,2
+1982,4,1,3,Philadelphia 76ers,3,2
+1982,4,1,3,Atlanta Hawks,6,0
+1982,4,1,3,New Jersey Nets,4,0
+1982,4,1,3,Washington Bullets,5,2
+1983,4,4,4,Los Angeles Lakers,1,0
+1983,4,4,4,Philadelphia 76ers,1,4 
+1983,4,3,7,Los Angeles Lakers,1,4
+1983,4,3,7,San Antonio Spurs,2,2
+1983,4,3,7,Philadelphia 76ers,1,4
+1983,4,3,7,Milwaukee Bucks,2,1
+1983,4,2,7,Los Angeles Lakers,1,4
+1983,4,2,7,Portland Trail Blazers,5,1
+1983,4,2,7,San Antonio Spurs,2,4
+1983,4,2,7,Denver Nuggets,6,1
+1983,4,2,7,Philadelphia 76ers,1,4
+1983,4,2,7,New York Knicks,5,0
+1983,4,2,7,Milwaukee Bucks,2,4
+1983,4,2,7,Boston Celtics,3,0
+1983,4,1,3,Phoenix Suns,3,1
+1983,4,1,3,Denver Nuggets,6,2
+1983,4,1,3,Seattle Supersonics,4,0
+1983,4,1,3,Portland Trail Blazers,5,2
+1983,4,1,3,Boston Celtics,3,2
+1983,4,1,3,Atlanta Hawks,6,1
+1983,4,1,3,New Jersey Nets,4,0
+1983,4,1,3,New York Knicks,5,2
+1984,4,4,4,Los Angeles Lakers,1,3
+1984,4,4,4,Boston Celtics,1,4 
+1984,4,3,7,Los Angeles Lakers,1,4
+1984,4,3,7,Phoenix Suns,6,2
+1984,4,3,7,Boston Celtics,1,4
+1984,4,3,7,Milwaukee Bucks,2,1
+1984,4,2,7,Los Angeles Lakers,1,4
+1984,4,2,7,Dallas Mavericks,4,1
+1984,4,2,7,Utah Jazz,2,2
+1984,4,2,7,Phoenix Suns,6,4
+1984,4,2,7,Boston Celtics,1,4
+1984,4,2,7,New York Knicks,5,3
+1984,4,2,7,Milwaukee Bucks,2,4
+1984,4,2,7,New Jersey Nets,6,2
+1984,4,1,5,Los Angeles Lakers,1,3
+1984,4,1,5,Kansas City Kings,8,0
+1984,4,1,5,Utah Jazz,2,3
+1984,4,1,5,Denver Nuggets,7,2
+1984,4,1,5,Portland Trail Blazers,3,2
+1984,4,1,5,Phoenix Suns,6,3
+1984,4,1,5,Dallas Mavericks,4,3
+1984,4,1,5,Seattle Supersonics,5,2
+1984,4,1,5,Boston Celtics,1,3
+1984,4,1,5,Washington Bullets,8,1
+1984,4,1,5,Milwaukee Bucks,2,3
+1984,4,1,5,Atlanta Hawks,7,2
+1984,4,1,5,Philadelphia 76ers,3,2
+1984,4,1,5,New Jersey Nets,6,3
+1984,4,1,5,Detroit Pistons,4,2
+1984,4,1,5,New York Knicks,5,3
+1985,4,4,7,Los Angeles Lakers,1,4
+1985,4,4,7,Boston Celtics,1,2
+1985,4,3,7,Los Angeles Lakers,1,4
+1985,4,3,7,Denver Nuggets,2,1
+1985,4,3,7,Boston Celtics,1,4
+1985,4,3,7,Philadelphia 76ers,3,1
+1985,4,2,7,Los Angeles Lakers,1,4
+1985,4,2,7,Portland Trail Blazers,5,1
+1985,4,2,7,Denver Nuggets,2,4
+1985,4,2,7,Utah Jazz,6,1
+1985,4,2,7,Boston Celtics,1,4
+1985,4,2,7,Detroit Pistons,4,2
+1985,4,2,7,Milwaukee Bucks,2,0
+1985,4,2,7,Philadelphia 76ers,3,4
+1985,4,1,5,Los Angeles Lakers,1,3
+1985,4,1,5,Phoenix Suns,8,0
+1985,4,1,5,Denver Nuggets,2,3
+1985,4,1,5,San Antonio Spurs,7,2
+1985,4,1,5,Houston Rockets,3,2
+1985,4,1,5,Utah Jazz,6,3
+1985,4,1,5,Dallas Mavericks,4,1
+1985,4,1,5,Portland Trail Blazers,5,3
+1985,4,1,5,Boston Celtics,1,3
+1985,4,1,5,Cleveland Cavaliers,8,1
+1985,4,1,5,Milwaukee Bucks,2,3
+1985,4,1,5,Chicago Bulls,7,1
+1985,4,1,5,Philadelphia 76ers,3,3
+1985,4,1,5,Washington Bullets,6,1
+1985,4,1,5,Detroit Pistons,4,3
+1985,4,1,5,New Jersey Nets,5,0
+1986,4,4,7,Houston Rockets,2,2
+1986,4,4,7,Boston Celtics,1,4
+1986,4,3,7,Los Angeles Lakers,1,1
+1986,4,3,7,Houston Rockets,2,4
+1986,4,3,7,Boston Celtics,1,4
+1986,4,3,7,Milwaukee Bucks,2,0
+1986,4,2,7,Los Angeles Lakers,1,4
+1986,4,2,7,Dallas Mavericks,4,2
+1986,4,2,7,Houston Rockets,2,4
+1986,4,2,7,Denver Nuggets,3,2
+1986,4,2,7,Boston Celtics,1,4
+1986,4,2,7,Atlanta Hawks,4,1
+1986,4,2,7,Milwaukee Bucks,2,4
+1986,4,2,7,Philadelphia 76ers,3,3
+1986,4,1,5,Los Angeles Lakers,1,3
+1986,4,1,5,San Antonio Spurs,8,0
+1986,4,1,5,Houston Rockets,2,3
+1986,4,1,5,Sacramento Kings,7,0
+1986,4,1,5,Denver Nuggets,3,3
+1986,4,1,5,Portland Trail Blazers,6,1
+1986,4,1,5,Dallas Mavericks,4,3
+1986,4,1,5,Utah Jazz,5,1
+1986,4,1,5,Boston Celtics,1,3
+1986,4,1,5,Chicago Bulls,8,0
+1986,4,1,5,Milwaukee Bucks,2,3
+1986,4,1,5,New Jersey Nets,7,0
+1986,4,1,5,Philadelphia 76ers,3,3
+1986,4,1,5,Washington Bullets,6,2
+1986,4,1,5,Atlanta Hawks,4,3
+1986,4,1,5,Detroit Pistons,5,1
+1987,4,4,7,Los Angeles Lakers,1,4
+1987,4,4,7,Boston Celtics,1,2
+1987,4,3,7,Los Angeles Lakers,1,4
+1987,4,3,7,Seattle Supersonics,7,0
+1987,4,3,7,Boston Celtics,1,4
+1987,4,3,7,Detroit Pistons,3,3
+1987,4,2,7,Los Angeles Lakers,1,4
+1987,4,2,7,Golden State Warriors,5,1
+1987,4,2,7,Houston Rockets,6,2
+1987,4,2,7,Seattle Supersonics,7,4
+1987,4,2,7,Boston Celtics,1,4
+1987,4,2,7,Milwaukee Bucks,4,3
+1987,4,2,7,Atlanta Hawks,2,1
+1987,4,2,7,Detroit Pistons,3,4
+1987,4,1,5,Los Angeles Lakers,1,3
+1987,4,1,5,Denver Nuggets,8,0
+1987,4,1,5,Dallas Mavericks,2,1
+1987,4,1,5,Seattle Supersonics,7,3
+1987,4,1,5,Portland Trail Blazers,3,1
+1987,4,1,5,Houston Rockets,6,3
+1987,4,1,5,Utah Jazz,4,2
+1987,4,1,5,Golden State Warriors,5,3
+1987,4,1,5,Boston Celtics,1,3
+1987,4,1,5,Chicago Bulls,8,0
+1987,4,1,5,Atlanta Hawks,2,3
+1987,4,1,5,Indiana Pacers,7,1
+1987,4,1,5,Detroit Pistons,3,3
+1987,4,1,5,Washington Bullets,6,0
+1987,4,1,5,Milwaukee Bucks,4,3
+1987,4,1,5,Philadelphia 76ers,5,2
+1988,4,4,7,Los Angeles Lakers,1,4
+1988,4,4,7,Detroit Pistons,2,3
+1988,4,3,7,Los Angeles Lakers,1,4
+1988,4,3,7,Dallas Mavericks,3,3
+1988,4,3,7,Detroit Pistons,2,4
+1988,4,3,7,Boston Celtics,1,2
+1988,4,2,7,Los Angeles Lakers,1,4
+1988,4,2,7,Utah Jazz,5,3
+1988,4,2,7,Denver Nuggets,2,2
+1988,4,2,7,Dallas Mavericks,3,4
+1988,4,2,7,Boston Celtics,1,4
+1988,4,2,7,Atlanta Hawks,4,3
+1988,4,2,7,Detroit Pistons,2,4
+1988,4,2,7,Chicago Bulls,3,1
+1988,4,1,5,Los Angeles Lakers,1,3
+1988,4,1,5,San Antonio Spurs,8,0
+1988,4,1,5,Denver Nuggets,2,3
+1988,4,1,5,Seattle Supersonics,7,2
+1988,4,1,5,Dallas Mavericks,3,3
+1988,4,1,5,Houston Rockets,6,1
+1988,4,1,5,Portland Trail Blazers,4,1
+1988,4,1,5,Utah Jazz,5,3
+1988,4,1,5,Boston Celtics,1,3
+1988,4,1,5,New York Knicks,8,1
+1988,4,1,5,Detroit Pistons,2,3
+1988,4,1,5,Washington Bullets,7,2
+1988,4,1,5,Chicago Bulls,3,3
+1988,4,1,5,Cleveland Cavaliers,6,2
+1988,4,1,5,Atlanta Hawks,4,3
+1988,4,1,5,Milwaukee Bucks,5,2
+1989,4,4,7,Los Angeles Lakers,1,0
+1989,4,4,7,Detroit Pistons,1,4
+1989,4,3,7,Los Angeles Lakers,1,4
+1989,4,3,7,Phoenix Suns,3,0
+1989,4,3,7,Detroit Pistons,1,4
+1989,4,3,7,Chicago Bulls,6,2
+1989,4,2,7,Los Angeles Lakers,1,4
+1989,4,2,7,Seattle Supersonics,4,0
+1989,4,2,7,Phoenix Suns,3,4
+1989,4,2,7,Golden State Warriors,7,1
+1989,4,2,7,Detroit Pistons,1,4
+1989,4,2,7,Milwaukee Bucks,5,0
+1989,4,2,7,New York Knicks,2,2
+1989,4,2,7,Chicago Bulls,6,4
+1989,4,1,5,Los Angeles Lakers,1,3
+1989,4,1,5,Portland Trail Blazers,8,0
+1989,4,1,5,Utah Jazz,2,0
+1989,4,1,5,Golden State Warriors,7,3
+1989,4,1,5,Phoenix Suns,3,3
+1989,4,1,5,Denver Nuggets,6,0
+1989,4,1,5,Seattle Supersonics,4,3
+1989,4,1,5,Houston Rockets,5,1
+1989,4,1,5,Detroit Pistons,1,3
+1989,4,1,5,Boston Celtics,8,0
+1989,4,1,5,New York Knicks,2,3
+1989,4,1,5,Philadelphia 76ers,7,0
+1989,4,1,5,Cleveland Cavaliers,3,2
+1989,4,1,5,Chicago Bulls,6,3
+1989,4,1,5,Atlanta Hawks,4,2
+1989,4,1,5,Milwaukee Bucks,5,3
+1990,4,4,7,Portland Trail Blazers,3,1
+1990,4,4,7,Detroit Pistons,1,4
+1990,4,3,7,Portland Trail Blazers,3,4
+1990,4,3,7,Phoenix Suns,5,2
+1990,4,3,7,Detroit Pistons,1,4
+1990,4,3,7,Chicago Bulls,3,3
+1990,4,2,7,Los Angeles Lakers,1,1
+1990,4,2,7,Phoenix Suns,5,4
+1990,4,2,7,San Antonio Spurs,2,3
+1990,4,2,7,Portland Trail Blazers,3,4
+1990,4,2,7,Detroit Pistons,1,4
+1990,4,2,7,New York Knicks,5,1
+1990,4,2,7,Philadelphia 76ers,2,1
+1990,4,2,7,Chicago Bulls,3,4
+1990,4,1,5,Los Angeles Lakers,1,3
+1990,4,1,5,Houston Rockets,8,1
+1990,4,1,5,San Antonio Spurs,2,3
+1990,4,1,5,Denver Nuggets,7,0
+1990,4,1,5,Portland Trail Blazers,3,3
+1990,4,1,5,Dallas Mavericks,6,0
+1990,4,1,5,Utah Jazz,4,2
+1990,4,1,5,Phoenix Suns,5,3
+1990,4,1,5,Detroit Pistons,1,3
+1990,4,1,5,Indiana Pacers,8,0
+1990,4,1,5,Philadelphia 76ers,2,3
+1990,4,1,5,Cleveland Cavaliers,7,2
+1990,4,1,5,Chicago Bulls,3,3
+1990,4,1,5,Milwaukee Bucks,6,1
+1990,4,1,5,Boston Celtics,4,2
+1990,4,1,5,New York Knicks,5,3
+1991,4,4,7,Los Angeles Lakers,3,1
+1991,4,4,7,Chicago Bulls,1,4
+1991,4,3,7,Portland Trail Blazers,1,2
+1991,4,3,7,Los Angeles Lakers,3,4
+1991,4,3,7,Chicago Bulls,1,4
+1991,4,3,7,Detroit Pistons,3,0
+1991,4,2,7,Portland Trail Blazers,1,4
+1991,4,2,7,Utah Jazz,5,1
+1991,4,2,7,Los Angeles Lakers,3,4
+1991,4,2,7,Golden State Warriors,7,1
+1991,4,2,7,Chicago Bulls,1,4
+1991,4,2,7,Philadelphia 76ers,5,1
+1991,4,2,7,Boston Celtics,2,2
+1991,4,2,7,Detroit Pistons,3,4
+1991,4,1,5,Portland Trail Blazers,1,3
+1991,4,1,5,Seattle Supersonics,8,2
+1991,4,1,5,San Antonio Spurs,2,1
+1991,4,1,5,Golden State Warriors,7,3
+1991,4,1,5,Los Angeles Lakers,3,3
+1991,4,1,5,Houston Rockets,6,0
+1991,4,1,5,Phoenix Suns,4,1
+1991,4,1,5,Utah Jazz,5,3
+1991,4,1,5,Chicago Bulls,1,3
+1991,4,1,5,New York Knicks,8,0
+1991,4,1,5,Boston Celtics,2,3
+1991,4,1,5,Indiana Pacers,7,2
+1991,4,1,5,Detroit Pistons,3,3
+1991,4,1,5,Atlanta Hawks,6,2
+1991,4,1,5,Milwaukee Bucks,4,0
+1991,4,1,5,Philadelphia 76ers,5,3
+1992,4,4,7,Portland Trail Blazers,1,2
+1992,4,4,7,Chicago Bulls,1,4
+1992,4,3,7,Portland Trail Blazers,1,4
+1992,4,3,7,Utah Jazz,2,2
+1992,4,3,7,Chicago Bulls,1,4
+1992,4,3,7,Cleveland Cavaliers,3,2
+1992,4,2,7,Portland Trail Blazers,1,4
+1992,4,2,7,Phoenix Suns,4,1
+1992,4,2,7,Utah Jazz,2,4
+1992,4,2,7,Seattle Supersonics,6,1
+1992,4,2,7,Chicago Bulls,1,4
+1992,4,2,7,New York Knicks,4,3
+1992,4,2,7,Boston Celtics,2,3
+1992,4,2,7,Cleveland Cavaliers,3,4
+1992,4,1,5,Portland Trail Blazers,1,3
+1992,4,1,5,Los Angeles Lakers,8,1
+1992,4,1,5,Utah Jazz,2,3
+1992,4,1,5,Los Angeles Clippers,7,2
+1992,4,1,5,Golden State Warriors,3,1
+1992,4,1,5,Seattle Supersonics,6,3
+1992,4,1,5,Phoenix Suns,4,3
+1992,4,1,5,San Antonio Spurs,5,0
+1992,4,1,5,Chicago Bulls,1,3
+1992,4,1,5,Miami Heat,8,0
+1992,4,1,5,Boston Celtics,2,3
+1992,4,1,5,Indiana Pacers,7,0
+1992,4,1,5,Cleveland Cavaliers,3,3
+1992,4,1,5,New Jersey Nets,6,1
+1992,4,1,5,New York Knicks,4,3
+1992,4,1,5,Detroit Pistons,5,2
+1993,4,4,7,Phoenix Suns,1,2
+1993,4,4,7,Chicago Bulls,2,4
+1993,4,3,7,Phoenix Suns,1,4
+1993,4,3,7,Seattle Supersonics,3,3
+1993,4,3,7,Chicago Bulls,2,4
+1993,4,3,7,New York Knicks,1,2
+1993,4,2,7,Phoenix Suns,1,4
+1993,4,2,7,San Antonio Spurs,5,2
+1993,4,2,7,Houston Rockets,2,3
+1993,4,2,7,Seattle Supersonics,3,4
+1993,4,2,7,New York Knicks,1,4
+1993,4,2,7,Charlotte Hornets,5,1
+1993,4,2,7,Chicago Bulls,2,4
+1993,4,2,7,Cleveland Cavaliers,3,0
+1993,4,1,5,Phoenix Suns,1,3
+1993,4,1,5,Los Angeles Lakers,8,2
+1993,4,1,5,Houston Rockets,2,3
+1993,4,1,5,Los Angeles Clippers,7,2
+1993,4,1,5,Seattle Supersonics,3,3
+1993,4,1,5,Utah Jazz,6,2
+1993,4,1,5,Portland Trail Blazers,4,1
+1993,4,1,5,San Antonio Spurs,5,3
+1993,4,1,5,New York Knicks,1,3
+1993,4,1,5,Indiana Pacers,8,1
+1993,4,1,5,Chicago Bulls,2,3
+1993,4,1,5,Atlanta Hawks,7,0
+1993,4,1,5,Cleveland Cavaliers,3,3
+1993,4,1,5,New Jersey Nets,6,2
+1993,4,1,5,Boston Celtics,4,1
+1993,4,1,5,Charlotte Hornets,5,3
+1994,4,4,7,Houston Rockets,2,4
+1994,4,4,7,New York Knicks,2,3
+1994,4,3,7,Houston Rockets,2,4
+1994,4,3,7,Utah Jazz,5,1
+1994,4,3,7,New York Knicks,2,4
+1994,4,3,7,Indiana Pacers,5,3
+1994,4,2,7,Utah Jazz,5,4
+1994,4,2,7,Denver Nuggets,8,3
+1994,4,2,7,Houston Rockets,2,4
+1994,4,2,7,Phoenix Suns,3,3
+1994,4,2,7,Atlanta Hawks,1,2
+1994,4,2,7,Indiana Pacers,5,4
+1994,4,2,7,New York Knicks,2,4
+1994,4,2,7,Chicago Bulls,3,3
+1994,4,1,5,Seattle Supersonics,1,2
+1994,4,1,5,Denver Nuggets,8,3
+1994,4,1,5,Houston Rockets,2,3
+1994,4,1,5,Portland Trail Blazers,7,1
+1994,4,1,5,Phoenix Suns,3,3
+1994,4,1,5,Golden State Warriors,6,0
+1994,4,1,5,San Antonio Spurs,4,1
+1994,4,1,5,Utah Jazz,5,3
+1994,4,1,5,Atlanta Hawks,1,3
+1994,4,1,5,Miami Heat,8,2
+1994,4,1,5,New York Knicks,2,3
+1994,4,1,5,New Jersey Nets,7,1
+1994,4,1,5,Chicago Bulls,3,3
+1994,4,1,5,Cleveland Cavaliers,6,0
+1994,4,1,5,Orlando Magic,4,0
+1994,4,1,5,Indiana Pacers,5,3
+1995,4,4,7,Houston Rockets,6,4
+1995,4,4,7,Orlando Magic,1,0
+1995,4,3,7,San Antonio Spurs,1,2
+1995,4,3,7,Houston Rockets,6,4
+1995,4,3,7,Orlando Magic,1,4
+1995,4,3,7,Indiana Pacers,2,3
+1995,4,2,7,San Antonio Spurs,1,4
+1995,4,2,7,Los Angeles Lakers,5,2
+1995,4,2,7,Phoenix Suns,2,3
+1995,4,2,7,Houston Rockets,6,4
+1995,4,2,7,Orlando Magic,1,4
+1995,4,2,7,Chicago Bulls,5,2
+1995,4,2,7,Indiana Pacers,2,4
+1995,4,2,7,New York Knicks,3,3
+1995,4,1,5,San Antonio Spurs,1,3
+1995,4,1,5,Denver Nuggets,8,0
+1995,4,1,5,Phoenix Suns,2,3
+1995,4,1,5,Portland Trail Blazers,7,0
+1995,4,1,5,Utah Jazz,3,2
+1995,4,1,5,Houston Rockets,6,3
+1995,4,1,5,Seattle Supersonics,4,1
+1995,4,1,5,Los Angeles Lakers,5,3
+1995,4,1,5,Orlando Magic,1,3
+1995,4,1,5,Boston Celtics,8,1
+1995,4,1,5,Indiana Pacers,2,3
+1995,4,1,5,Atlanta Hawks,7,0
+1995,4,1,5,New York Knicks,3,3
+1995,4,1,5,Cleveland Cavaliers,6,1
+1995,4,1,5,Charlotte Hornets,4,1
+1995,4,1,5,Chicago Bulls,5,3
+1996,4,4,7,Seattle Supersonics,1,2
+1996,4,4,7,Chicago Bulls,1,4
+1996,4,3,7,Seattle Supersonics,1,4
+1996,4,3,7,Utah Jazz,3,3
+1996,4,3,7,Chicago Bulls,1,4
+1996,4,3,7,Orlando Magic,2,0
+1996,4,2,7,Seattle Supersonics,1,4
+1996,4,2,7,Houston Rockets,5,0
+1996,4,2,7,San Antonio Spurs,2,2
+1996,4,2,7,Utah Jazz,3,4
+1996,4,2,7,Chicago Bulls,1,4
+1996,4,2,7,New York Knicks,5,1
+1996,4,2,7,Orlando Magic,2,4
+1996,4,2,7,Atlanta Hawks,6,1
+1996,4,1,5,Seattle Supersonics,1,3
+1996,4,1,5,Sacramento Kings,8,1
+1996,4,1,5,San Antonio Spurs,2,3
+1996,4,1,5,Phoenix Suns,7,1
+1996,4,1,5,Utah Jazz,3,3
+1996,4,1,5,Portland Trail Blazers,6,2
+1996,4,1,5,Los Angeles Lakers,4,1
+1996,4,1,5,Houston Rockets,5,3
+1996,4,1,5,Chicago Bulls,1,3
+1996,4,1,5,Miami Heat,8,0
+1996,4,1,5,Orlando Magic,2,3
+1996,4,1,5,Detroit Pistons,7,0
+1996,4,1,5,Indiana Pacers,3,2
+1996,4,1,5,Atlanta Hawks,6,3
+1996,4,1,5,Cleveland Cavaliers,4,0
+1996,4,1,5,New York Knicks,5,3
+1997,4,4,7,Utah Jazz,1,2
+1997,4,4,7,Chicago Bulls,1,4
+1997,4,3,7,Utah Jazz,1,4
+1997,4,3,7,Houston Rockets,3,2
+1997,4,3,7,Chicago Bulls,1,4
+1997,4,3,7,Miami Heat,21,
+1997,4,2,7,Utah Jazz,1,4
+1997,4,2,7,Los Angeles Lakers,4,1
+1997,4,2,7,Seattle Supersonics,2,3
+1997,4,2,7,Houston Rockets,3,4
+1997,4,2,7,Chicago Bulls,1,4
+1997,4,2,7,Atlanta Hawks,4,1
+1997,4,2,7,Miami Heat,2,4
+1997,4,2,7,New York Knicks,3,3
+1997,4,1,5,Utah Jazz,1,3
+1997,4,1,5,Los Angeles Clippers,8,0
+1997,4,1,5,Seattle Supersonics,2,3
+1997,4,1,5,Phoenix Suns,7,2
+1997,4,1,5,Houston Rockets,3,3
+1997,4,1,5,Minnesota Timberwolves,6,0
+1997,4,1,5,Los Angeles Lakers,4,3
+1997,4,1,5,Portland Trail Blazers,5,1
+1997,4,1,5,Chicago Bulls,1,3
+1997,4,1,5,Washington Bullets,8,0
+1997,4,1,5,Miami Heat,2,3
+1997,4,1,5,Orlando Magic,7,2
+1997,4,1,5,New York Knicks,3,3
+1997,4,1,5,Charlotte Hornets,6,0
+1997,4,1,5,Atlanta Hawks,4,3
+1997,4,1,5,Detroit Pistons,5,2
+1998,4,4,7,Utah Jazz,1,2
+1998,4,4,7,Chicago Bulls,1,4
+1998,4,3,7,Utah Jazz,1,4
+1998,4,3,7,Los Angeles Lakers,3,0
+1998,4,3,7,Chicago Bulls,1,4
+1998,4,3,7,Indiana Pacers,3,3
+1998,4,2,7,Utah Jazz,1,4
+1998,4,2,7,San Antonio Spurs,5,1
+1998,4,2,7,Seattle Supersonics,2,1
+1998,4,2,7,Los Angeles Lakers,3,4
+1998,4,2,7,Chicago Bulls,1,4
+1998,4,2,7,Charlotte Hornets,4,1
+1998,4,2,7,Indiana Pacers,3,4
+1998,4,2,7,New York Knicks,7,1
+1998,4,1,5,Utah Jazz,1,3
+1998,4,1,5,Houston Rockets,8,2
+1998,4,1,5,Seattle Supersonics,2,3
+1998,4,1,5,Minnesota Timberwolves,7,2
+1998,4,1,5,Los Angeles Lakers,3,3
+1998,4,1,5,Portland Trail Blazers,6,1
+1998,4,1,5,Phoenix Suns,4,1
+1998,4,1,5,San Antonio Spurs,5,3
+1998,4,1,5,Chicago Bulls,1,3
+1998,4,1,5,New Jersey Nets,8,0
+1998,4,1,5,Miami Heat,2,2
+1998,4,1,5,New York Knicks,7,3
+1998,4,1,5,Indiana Pacers,3,3
+1998,4,1,5,Cleveland Cavaliers,6,1
+1998,4,1,5,Charlotte Hornets,4,3
+1998,4,1,5,Atlanta Hawks,5,1
+1999,4,4,7,San Antonio Spurs,1,4
+1999,4,4,7,New York Knicks,8,1
+1999,4,3,7,San Antonio Spurs,1,4
+1999,4,3,7,Portland Trail Blazers,3,0
+1999,4,3,7,New York Knicks,8,4
+1999,4,3,7,Indiana Pacers,2,2
+1999,4,2,7,San Antonio Spurs,1,4
+1999,4,2,7,Los Angeles Lakers,5,0
+1999,4,2,7,Utah Jazz,2,2
+1999,4,2,7,Portland Trail Blazers,3,4
+1999,4,2,7,Atlanta Hawks,4,0
+1999,4,2,7,New York Knicks,8,4
+1999,4,2,7,Indiana Pacers,2,4
+1999,4,2,7,Philadelphia 76ers,6,0
+1999,4,1,5,San Antonio Spurs,1,3
+1999,4,1,5,Minnesota Timberwolves,8,1
+1999,4,1,5,Utah Jazz,2,3
+1999,4,1,5,Sacramento Kings,7,2
+1999,4,1,5,Portland Trail Blazers,3,3
+1999,4,1,5,Phoenix Suns,6,0
+1999,4,1,5,Houston Rockets,4,1
+1999,4,1,5,Los Angeles Lakers,5,3
+1999,4,1,5,Miami Heat,1,2
+1999,4,1,5,New York Knicks,8,3
+1999,4,1,5,Indiana Pacers,2,3
+1999,4,1,5,Milwaukee Bucks,7,0
+1999,4,1,5,Orlando Magic,3,1
+1999,4,1,5,Philadelphia 76ers,6,3
+1999,4,1,5,Atlanta Hawks,4,3
+1999,4,1,5,Detroit Pistons,5,2
+2000,4,4,7,Los Angeles Lakers,1,4
+2000,4,4,7,Indiana Pacers,1,2
+2000,4,3,7,Los Angeles Lakers,1,4
+2000,4,3,7,Portland Trail Blazers,3,3
+2000,4,3,7,Indiana Pacers,1,4
+2000,4,3,7,New York Knicks,3,2
+2000,4,2,7,Los Angeles Lakers,1,4
+2000,4,2,7,Phoenix Suns,5,1
+2000,4,2,7,Utah Jazz,2,1
+2000,4,2,7,Portland Trail Blazers,3,4
+2000,4,2,7,Indiana Pacers,1,4
+2000,4,2,7,Philadelphia 76ers,4,2
+2000,4,2,7,Miami Heat,2,3
+2000,4,2,7,New York Knicks,3,4
+2000,4,1,5,Los Angeles Lakers,1,3
+2000,4,1,5,Sacramento Kings,8,2
+2000,4,1,5,Utah Jazz,2,3
+2000,4,1,5,Seattle Supersonics,7,2
+2000,4,1,5,Portland Trail Blazers,3,3
+2000,4,1,5,Minnesota Timberwolves,6,1
+2000,4,1,5,San Antonio Spurs,4,1
+2000,4,1,5,Phoenix Suns,5,3
+2000,4,1,5,Indiana Pacers,1,3
+2000,4,1,5,Milwaukee Bucks,8,2
+2000,4,1,5,Miami Heat,2,3
+2000,4,1,5,Detroit Pistons,7,0
+2000,4,1,5,New York Knicks,3,3
+2000,4,1,5,Toronto Raptors,6,0
+2000,4,1,5,Philadelphia 76ers,4,3
+2000,4,1,5,Charlotte Hornets,5,1
+2001,4,4,7,Los Angeles Lakers,2,4
+2001,4,4,7,Philadelphia 76ers,1,1
+2001,4,3,7,San Antonio Spurs,1,0
+2001,4,3,7,Los Angeles Lakers,2,4
+2001,4,3,7,Philadelphia 76ers,1,4
+2001,4,3,7,Milwaukee Bucks,2,3
+2001,4,2,7,San Antonio Spurs,1,4
+2001,4,2,7,Dallas Mavericks,5,1
+2001,4,2,7,Los Angeles Lakers,2,4
+2001,4,2,7,Sacramento Kings,3,0
+2001,4,2,7,Philadelphia 76ers,1,4
+2001,4,2,7,Toronto Raptors,5,3
+2001,4,2,7,Milwaukee Bucks,2,4
+2001,4,2,7,Charlotte Hornets,6,3
+2001,4,1,5,San Antonio Spurs,1,3
+2001,4,1,5,Minnesota Timberwolves,8,1
+2001,4,1,5,Los Angeles Lakers,2,3
+2001,4,1,5,Portland Trail Blazers,7,0
+2001,4,1,5,Sacramento Kings,3,3
+2001,4,1,5,Phoenix Suns,6,1
+2001,4,1,5,Utah Jazz,4,2
+2001,4,1,5,Dallas Mavericks,5,3
+2001,4,1,5,Philadelphia 76ers,1,3
+2001,4,1,5,Indiana Pacers,8,1
+2001,4,1,5,Milwaukee Bucks,2,3
+2001,4,1,5,Orlando Magic,7,1
+2001,4,1,5,Miami Heat,3,0
+2001,4,1,5,Charlotte Hornets,6,3
+2001,4,1,5,New York Knicks,4,2
+2001,4,1,5,Toronto Raptors,5,3
+2002,4,4,7,Los Angeles Lakers,3,4
+2002,4,4,7,New Jersey Nets,1,0
+2002,4,3,7,Sacramento Kings,1,3
+2002,4,3,7,Los Angeles Lakers,3,4
+2002,4,3,7,New Jersey Nets,1,4
+2002,4,3,7,Boston Celtics,3,2
+2002,4,2,7,Sacramento Kings,1,4
+2002,4,2,7,Dallas Mavericks,4,1
+2002,4,2,7,San Antonio Spurs,2,1
+2002,4,2,7,Los Angeles Lakers,3,4
+2002,4,2,7,New Jersey Nets,1,4
+2002,4,2,7,Charlotte Hornets,4,1
+2002,4,2,7,Detroit Pistons,2,1
+2002,4,2,7,Boston Celtics,3,4
+2002,4,1,5,Sacramento Kings,1,3
+2002,4,1,5,Utah Jazz,8,1
+2002,4,1,5,San Antonio Spurs,2,3
+2002,4,1,5,Seattle Supersonics,7,2
+2002,4,1,5,Los Angeles Lakers,3,3
+2002,4,1,5,Portland Trail Blazers,6,0
+2002,4,1,5,Dallas Mavericks,4,3
+2002,4,1,5,Minnesota Timberwolves,5,0
+2002,4,1,5,New Jersey Nets,1,3
+2002,4,1,5,Indiana Pacers,8,2
+2002,4,1,5,Detroit Pistons,2,3
+2002,4,1,5,Toronto Raptors,7,2
+2002,4,1,5,Boston Celtics,3,3
+2002,4,1,5,Philadelphia 76ers,6,2
+2002,4,1,5,Charlotte Hornets,4,3
+2002,4,1,5,Orlando Magic,5,1
+2003,4,4,7,San Antonio Spurs,1,4
+2003,4,4,7,New Jersey Nets,2,2
+2003,4,3,7,San Antonio Spurs,1,4
+2003,4,3,7,Dallas Mavericks,3,2
+2003,4,3,7,New Jersey Nets,2,4
+2003,4,3,7,Detroit Pistons,1,0
+2003,4,2,7,San Antonio Spurs,1,4
+2003,4,2,7,Los Angeles Lakers,5,2
+2003,4,2,7,Sacramento Kings,2,3
+2003,4,2,7,Dallas Mavericks,3,4
+2003,4,2,7,New Jersey Nets,2,4
+2003,4,2,7,Boston Celtics,6,0
+2003,4,2,7,Detroit Pistons,1,4
+2003,4,2,7,Philadelphia 76ers,4,2
+2003,4,1,7,San Antonio Spurs,1,4
+2003,4,1,7,Phoenix Suns,8,2
+2003,4,1,7,Sacramento Kings,2,4
+2003,4,1,7,Utah Jazz,7,1
+2003,4,1,7,Dallas Mavericks,3,4
+2003,4,1,7,Portland Trail Blazers,6,3
+2003,4,1,7,Minnesota Timberwolves,4,2
+2003,4,1,7,Los Angeles Lakers,5,4
+2003,4,1,7,Detroit Pistons,1,4
+2003,4,1,7,Orlando Magic,8,3
+2003,4,1,7,New Jersey Nets,2,4
+2003,4,1,7,Milwaukee Bucks,7,2
+2003,4,1,7,Indiana Pacers,3,2
+2003,4,1,7,Boston Celtics,6,4
+2003,4,1,7,Philadelphia 76ers,4,4
+2003,4,1,7,New Orleans Hornets,5,2
+2004,4,4,7,Los Angeles Lakers,2,1
+2004,4,4,7,Detroit Pistons,3,4
+2004,4,3,7,Minnesota Timberwolves,1,2
+2004,4,3,7,Los Angeles Lakers,2,4
+2004,4,3,7,Detroit Pistons,3,4
+2004,4,3,7,Indiana Pacers,1,2
+2004,4,2,7,Minnesota Timberwolves,1,4
+2004,4,2,7,Sacramento Kings,4,3
+2004,4,2,7,Los Angeles Lakers,2,4
+2004,4,2,7,San Antonio Spurs,3,2
+2004,4,2,7,Indiana Pacers,1,4
+2004,4,2,7,Miami Heat,4,2
+2004,4,2,7,New Jersey Nets,2,3
+2004,4,2,7,Detroit Pistons,3,4
+2004,4,1,7,Minnesota Timberwolves,1,4
+2004,4,1,7,Denver Nuggets,8,1
+2004,4,1,7,Los Angeles Lakers,2,4
+2004,4,1,7,Houston Rockets,7,1
+2004,4,1,7,San Antonio Spurs,3,4
+2004,4,1,7,Memphis Grizzlies,6,0
+2004,4,1,7,Sacramento Kings,4,4
+2004,4,1,7,Dallas Mavericks,5,1
+2004,4,1,7,Indiana Pacers,1,4
+2004,4,1,7,Boston Celtics,8,0
+2004,4,1,7,New Jersey Nets,2,4
+2004,4,1,7,New York Knicks,7,0
+2004,4,1,7,Detroit Pistons,3,4
+2004,4,1,7,Milwaukee Bucks,6,1
+2004,4,1,7,Miami Heat,4,4
+2004,4,1,7,New Orleans Hornets,5,3
+2005,4,4,7,San Antonio Spurs,2,4
+2005,4,4,7,Detroit Pistons,2,3
+2005,4,3,7,Phoenix Suns,1,1
+2005,4,3,7,San Antonio Spurs,2,4
+2005,4,3,7,Detroit Pistons,2,4
+2005,4,3,7,Miami Heat,1,3
+2005,4,2,7,Phoenix Suns,1,4
+2005,4,2,7,Dallas Mavericks,4,2
+2005,4,2,7,San Antonio Spurs,2,4
+2005,4,2,7,Seattle Supersonics,3,2
+2005,4,2,7,Miami Heat,1,4
+2005,4,2,7,Washington Wizards,5,0
+2005,4,2,7,Detroit Pistons,2,4
+2005,4,2,7,Indiana Pacers,6,2
+2005,4,1,7,Phoenix Suns,1,4
+2005,4,1,7,Memphis Grizzlies,8,0
+2005,4,1,7,San Antonio Spurs,2,4
+2005,4,1,7,Denver Nuggets,7,1
+2005,4,1,7,Seattle Supersonics,3,4
+2005,4,1,7,Sacramento Kings,6,1
+2005,4,1,7,Dallas Mavericks,4,4
+2005,4,1,7,Houston Rockets,5,3
+2005,4,1,7,Miami Heat,1,4
+2005,4,1,7,New Jersey Nets,8,0
+2005,4,1,7,Detroit Pistons,2,4
+2005,4,1,7,Philadelphia 76ers,7,1
+2005,4,1,7,Boston Celtics,3,3
+2005,4,1,7,Indiana Pacers,6,4
+2005,4,1,7,Chicago Bulls,4,2
+2005,4,1,7,Washington Wizards,5,4
+2006,4,4,7,Dallas Mavericks,4,2
+2006,4,4,7,Miami Heat,2,4
+2006,4,3,7,Phoenix Suns,2,2
+2006,4,3,7,Dallas Mavericks,4,4
+2006,4,3,7,Miami Heat,2,4
+2006,4,3,7,Detroit Pistons,1,2
+2006,4,2,7,San Antonio Spurs,1,3
+2006,4,2,7,Dallas Mavericks,4,4
+2006,4,2,7,Phoenix Suns,2,4
+2006,4,2,7,Los Angeles Clippers,6,3
+2006,4,2,7,Detroit Pistons,1,4
+2006,4,2,7,Cleveland Cavaliers,4,3
+2006,4,2,7,Miami Heat,2,4
+2006,4,2,7,New Jersey Nets,3,1
+2006,4,1,7,San Antonio Spurs,1,4
+2006,4,1,7,Sacramento Kings,8,2
+2006,4,1,7,Phoenix Suns,2,4
+2006,4,1,7,Los Angeles Lakers,7,3
+2006,4,1,7,Denver Nuggets,3,1
+2006,4,1,7,Los Angeles Clippers,6,4
+2006,4,1,7,Dallas Mavericks,4,4
+2006,4,1,7,Memphis Grizzlies,5,0
+2006,4,1,7,Detroit Pistons,1,4
+2006,4,1,7,Milwaukee Bucks,8,1
+2006,4,1,7,Miami Heat,2,4
+2006,4,1,7,Chicago Bulls,7,2
+2006,4,1,7,New Jersey Nets,3,4
+2006,4,1,7,Indiana Pacers,6,2
+2006,4,1,7,Cleveland Cavaliers,4,4
+2006,4,1,7,Washington Wizards,5,2
+2007,4,4,7,San Antonio Spurs,3,4
+2007,4,4,7,Cleveland Cavaliers,2,0
+2007,4,3,7,San Antonio Spurs,3,4
+2007,4,3,7,Utah Jazz,4,1
+2007,4,3,7,Cleveland Cavaliers,2,4
+2007,4,3,7,Detroit Pistons,1,2
+2007,4,2,7,Utah Jazz,4,4
+2007,4,2,7,Golden State Warriors,8,1
+2007,4,2,7,Phoenix Suns,2,2
+2007,4,2,7,San Antonio Spurs,3,4
+2007,4,2,7,Detroit Pistons,1,4
+2007,4,2,7,Chicago Bulls,5,2
+2007,4,2,7,Cleveland Cavaliers,2,4
+2007,4,2,7,New Jersey Nets,6,2
+2007,4,1,7,Dallas Mavericks,1,2
+2007,4,1,7,Golden State Warriors,8,4
+2007,4,1,7,Phoenix Suns,2,4
+2007,4,1,7,Los Angeles Lakers,7,1
+2007,4,1,7,San Antonio Spurs,3,4
+2007,4,1,7,Denver Nuggets,6,1
+2007,4,1,7,Utah Jazz,4,4
+2007,4,1,7,Houston Rockets,5,3
+2007,4,1,7,Detroit Pistons,1,4
+2007,4,1,7,Orlando Magic,8,0
+2007,4,1,7,Cleveland Cavaliers,2,4
+2007,4,1,7,Washington Wizards,7,0
+2007,4,1,7,Toronto Raptors,3,2
+2007,4,1,7,New Jersey Nets,6,4
+2007,4,1,7,Miami Heat,4,0
+2007,4,1,7,Chicago Bulls,5,4
+2008,4,4,7,Los Angeles Lakers,1,2
+2008,4,4,7,Boston Celtics,1,4
+2008,4,3,7,Los Angeles Lakers,1,4
+2008,4,3,7,San Antonio Spurs,3,1
+2008,4,3,7,Boston Celtics,1,4
+2008,4,3,7,Detroit Pistons,2,2
+2008,4,2,7,Los Angeles Lakers,1,4
+2008,4,2,7,Utah Jazz,4,2
+2008,4,2,7,New Orleans Hornets,2,3
+2008,4,2,7,San Antonio Spurs,3,4
+2008,4,2,7,Boston Celtics,1,4
+2008,4,2,7,Cleveland Cavaliers,4,3
+2008,4,2,7,Detroit Pistons,2,4
+2008,4,2,7,Orlando Magic,3,1
+2008,4,1,7,Los Angeles Lakers,1,4
+2008,4,1,7,Denver Nuggets,8,0
+2008,4,1,7,San Antonio Spurs,3,4
+2008,4,1,7,Phoenix Suns,6,1
+2008,4,1,7,New Orleans Hornets,2,4
+2008,4,1,7,Dallas Mavericks,7,1
+2008,4,1,7,Utah Jazz,4,4
+2008,4,1,7,Houston Rockets,5,2
+2008,4,1,7,Boston Celtics,1,4
+2008,4,1,7,Atlanta Hawks,8,3
+2008,4,1,7,Detroit Pistons,2,4
+2008,4,1,7,Philadelphia 76ers,7,2
+2008,4,1,7,Orlando Magic,3,4
+2008,4,1,7,Toronto Raptors,6,1
+2008,4,1,7,Cleveland Cavaliers,4,4
+2008,4,1,7,Washington Wizards,5,2
+2009,4,4,7,Los Angeles Lakers,1,4
+2009,4,4,7,Orlando Magic,3,1
+2009,4,3,7,Los Angeles Lakers,1,4
+2009,4,3,7,Denver Nuggets,2,2
+2009,4,3,7,Orlando Magic,3,4
+2009,4,3,7,Cleveland Cavaliers,1,2
+2009,4,2,7,Los Angeles Lakers,1,4
+2009,4,2,7,Houston Rockets,5,3
+2009,4,2,7,Denver Nuggets,2,4
+2009,4,2,7,Dallas Mavericks,6,1
+2009,4,2,7,Cleveland Cavaliers,1,4
+2009,4,2,7,Atlanta Hawks,4,0
+2009,4,2,7,Boston Celtics,2,3
+2009,4,2,7,Orlando Magic,3,4
+2009,4,1,7,Los Angeles Lakers,1,4
+2009,4,1,7,Utah Jazz,8,1
+2009,4,1,7,Denver Nuggets,2,4
+2009,4,1,7,New Orleans Hornets,7,1
+2009,4,1,7,San Antonio Spurs,3,1
+2009,4,1,7,Dallas Mavericks,6,4
+2009,4,1,7,Portland Trail Blazers,4,2
+2009,4,1,7,Houston Rockets,5,4
+2009,4,1,7,Cleveland Cavaliers,1,4
+2009,4,1,7,Detroit Pistons,8,0
+2009,4,1,7,Boston Celtics,2,4
+2009,4,1,7,Chicago Bulls,7,3
+2009,4,1,7,Orlando Magic,3,4
+2009,4,1,7,Philadelphia 76ers,6,2
+2009,4,1,7,Atlanta Hawks,4,4
+2009,4,1,7,Miami Heat,5,3
+2010,4,4,7,Los Angeles Lakers,1,4
+2010,4,4,7,Boston Celtics,4,3
+2010,4,3,7,Los Angeles Lakers,1,4
+2010,4,3,7,Phoenix Suns,3,2
+2010,4,3,7,Boston Celtics,4,4
+2010,4,3,7,Orlando Magic,2,2
+2010,4,2,7,Los Angeles Lakers,1,4
+2010,4,2,7,Utah Jazz,5,0
+2010,4,2,7,Phoenix Suns,3,4
+2010,4,2,7,San Antonio Spurs,7,0
+2010,4,2,7,Cleveland Cavaliers,1,2
+2010,4,2,7,Boston Celtics,4,4
+2010,4,2,7,Orlando Magic,2,4
+2010,4,2,7,Atlanta Hawks,3,0
+2010,4,1,7,Los Angeles Lakers,1,4
+2010,4,1,7,Oklahoma City Thunder,8,2
+2010,4,1,7,Dallas Mavericks,2,2
+2010,4,1,7,San Antonio Spurs,7,4
+2010,4,1,7,Phoenix Suns,3,4
+2010,4,1,7,Portland Trail Blazers,6,2
+2010,4,1,7,Denver Nuggets,4,2
+2010,4,1,7,Utah Jazz,5,4
+2010,4,1,7,Cleveland Cavaliers,1,4
+2010,4,1,7,Chicago Bulls,8,1
+2010,4,1,7,Orlando Magic,2,4
+2010,4,1,7,Charlotte Bobcats,7,0
+2010,4,1,7,Atlanta Hawks,3,4
+2010,4,1,7,Milwaukee Bucks,6,3
+2010,4,1,7,Boston Celtics,4,4
+2010,4,1,7,Miami Heat,5,1
+2011,4,4,7,Dallas Mavericks,3,4
+2011,4,4,7,Miami Heat,2,2
+2011,4,3,7,Dallas Mavericks,3,4
+2011,4,3,7,Oklahoma City Thunder,4,1
+2011,4,3,7,Miami Heat,2,4
+2011,4,3,7,Chicago Bulls,1,1
+2011,4,2,7,Oklahoma City Thunder,4,4
+2011,4,2,7,Memphis Grizzlies,8,3
+2011,4,2,7,Los Angeles Lakers,2,0
+2011,4,2,7,Dallas Mavericks,3,4
+2011,4,2,7,Chicago Bulls,1,4
+2011,4,2,7,Atlanta Hawks,5,2
+2011,4,2,7,Miami Heat,2,4
+2011,4,2,7,Boston Celtics,3,1
+2011,4,1,7,San Antonio Spurs,1,2
+2011,4,1,7,Memphis Grizzlies,8,4
+2011,4,1,7,Los Angeles Lakers,2,4
+2011,4,1,7,New Orleans Hornets,7,2
+2011,4,1,7,Dallas Mavericks,3,4
+2011,4,1,7,Portland Trail Blazers,6,2
+2011,4,1,7,Oklahoma City Thunder,4,4
+2011,4,1,7,Denver Nuggets,5,1
+2011,4,1,7,Chicago Bulls,1,4
+2011,4,1,7,Indiana Pacers,8,1
+2011,4,1,7,Miami Heat,2,4
+2011,4,1,7,Philadelphia 76ers,7,1
+2011,4,1,7,Boston Celtics,3,4
+2011,4,1,7,New York Knicks,6,0
+2011,4,1,7,Orlando Magic,4,2
+2011,4,1,7,Atlanta Hawks,5,4
+2012,4,4,7,Oklahoma City Thunder,2,1
+2012,4,4,7,Miami Heat,2,4
+2012,4,3,7,San Antonio Spurs,1,2
+2012,4,3,7,Oklahoma City Thunder,2,4
+2012,4,3,7,Miami Heat,2,4
+2012,4,3,7,Boston Celtics,4,3
+2012,4,2,7,San Antonio Spurs,1,4
+2012,4,2,7,Los Angeles Clippers,5,0
+2012,4,2,7,Oklahoma City Thunder,2,4
+2012,4,2,7,Los Angeles Lakers,3,1
+2012,4,2,7,Boston Celtics,4,4
+2012,4,2,7,Philadelphia 76ers,8,3
+2012,4,2,7,Miami Heat,2,4
+2012,4,2,7,Indiana Pacers,3,2
+2012,4,1,7,San Antonio Spurs,1,4
+2012,4,1,7,Utah Jazz,8,0
+2012,4,1,7,Oklahoma City Thunder,2,4
+2012,4,1,7,Dallas Mavericks,7,0
+2012,4,1,7,Los Angeles Lakers,3,4
+2012,4,1,7,Denver Nuggets,6,3
+2012,4,1,7,Memphis Grizzlies,4,3
+2012,4,1,7,Los Angeles Clippers,5,4
+2012,4,1,7,Chicago Bulls,1,2
+2012,4,1,7,Philadelphia 76ers,8,4
+2012,4,1,7,Miami Heat,2,4
+2012,4,1,7,New York Knicks,7,1
+2012,4,1,7,Indiana Pacers,3,4
+2012,4,1,7,Orlando Magic,6,1
+2012,4,1,7,Boston Celtics,4,4
+2012,4,1,7,Atlanta Hawks,5,2
+2013,4,4,7,San Antonio Spurs,2,3
+2013,4,4,7,Miami Heat,1,4
+2013,4,3,7,San Antonio Spurs,2,4
+2013,4,3,7,Memphis Grizzlies,5,0
+2013,4,3,7,Miami Heat,1,4
+2013,4,3,7,Indiana Pacers,3,3
+2013,4,2,7,Oklahoma City Thunder,1,1
+2013,4,2,7,Memphis Grizzlies,5,4
+2013,4,2,7,San Antonio Spurs,2,4
+2013,4,2,7,Golden State Warriors,6,2
+2013,4,2,7,Miami Heat,1,4
+2013,4,2,7,Chicago Bulls,5,1
+2013,4,2,7,New York Knicks,2,2
+2013,4,2,7,Indiana Pacers,3,4
+2013,4,1,7,Oklahoma City Thunder,1,4
+2013,4,1,7,Houston Rockets,8,2
+2013,4,1,7,San Antonio Spurs,2,4
+2013,4,1,7,Los Angeles Lakers,7,0
+2013,4,1,7,Denver Nuggets,3,2
+2013,4,1,7,Golden State Warriors,6,4
+2013,4,1,7,Los Angeles Clippers,4,2
+2013,4,1,7,Memphis Grizzlies,5,4
+2013,4,1,7,Miami Heat,1,4
+2013,4,1,7,Milwaukee Bucks,8,0
+2013,4,1,7,New York Knicks,2,4
+2013,4,1,7,Boston Celtics,7,2
+2013,4,1,7,Indiana Pacers,3,4
+2013,4,1,7,Atlanta Hawks,6,2
+2013,4,1,7,Brooklyn Nets,4,3
+2013,4,1,7,Chicago Bulls,5,4
+2014,4,4,7,San Antonio Spurs,1,4
+2014,4,4,7,Miami Heat,2,1
+2014,4,3,7,Miami Heat,2,4
+2014,4,3,7,Indiana Pacers,1,2
+2014,4,3,7,San Antonio Spurs,1,4
+2014,4,3,7,Oklahoma City Thunder,2,0
+2014,4,2,7,San Antonio Spurs,1,4
+2014,4,2,7,Portland Trail Blazers,5,1
+2014,4,2,7,Oklahoma City Thunder,2,4
+2014,4,2,7,L.A. Clippers,3,3
+2014,4,2,7,Indiana Pacers,1,4
+2014,4,2,7,Washington Wizards,5,2
+2014,4,2,7,Miami Heat,2,4
+2014,4,2,7,Brooklyn Nets,6,1
+2014,4,1,7,San Antonio Spurs,1,4
+2014,4,1,7,Dallas Mavericks,8,3
+2014,4,1,7,Oklahoma City Thunder,2,4
+2014,4,1,7,Memphis Grizzlies,7,3
+2014,4,1,7,L.A. Clippers,3,4
+2014,4,1,7,Golden State Warriors,6,3
+2014,4,1,7,Houston Rockets,4,2
+2014,4,1,7,Portland Trail Blazers,5,4
+2014,4,1,7,Indiana Pacers,1,4
+2014,4,1,7,Atlanta Hawks,8,3
+2014,4,1,7,Miami Heat,2,4
+2014,4,1,7,Charlotte Bobcats,7,0
+2014,4,1,7,Toronto Raptors,3,3
+2014,4,1,7,Brooklyn Nets,6,4
+2014,4,1,7,Chicago Bulls,4,1
+2014,4,1,7,Washington Wizards,5,4
+2015,4,4,7,GSW,1,4
+2015,4,4,7,CLE,2,2
+2015,4,3,7,ATL,1,0
+2015,4,3,7,CLE,2,4
+2015,4,3,7,GSW,1,4
+2015,4,3,7,HOU,2,1
+2015,4,2,7,GSW,1,4
+2015,4,2,7,ATL,1,4
+2015,4,2,7,CHI,3,2
+2015,4,2,7,CLE,2,4
+2015,4,2,7,HOU,2,4
+2015,4,2,7,LAC,3,3
+2015,4,2,7,MEM,5,2
+2015,4,2,7,WAS,5,2
+2015,4,1,7,GSW,1,4
+2015,4,1,7,ATL,1,4
+2015,4,1,7,BRK,8,2
+2015,4,1,7,BOS,,0
+2015,4,1,7,CHI,3,4
+2015,4,1,7,CLE,2,4
+2015,4,1,7,DAL,,1
+2015,4,1,7,HOU,2,4
+2015,4,1,7,LAC,3,4
+2015,4,1,7,MEM,5,4
+2015,4,1,7,MIL,,2
+2015,4,1,7,NOP,,0
+2015,4,1,7,POR,,1
+2015,4,1,7,SAS,,3
+2015,4,1,7,TOR,4,0
+2015,4,1,7,WAS,5,4
+2016,4,4,7,CLE,1,4
+2016,4,4,7,GSW,1,3
+2016,4,3,7,CLE,1,4
+2016,4,3,7,TOR,2,2
+2016,4,3,7,GSW,1,4
+2016,4,3,7,OKC,3,3
+2016,4,2,7,CLE,1,4
+2016,4,2,7,ATL,4,0
+2016,4,2,7,TOR,2,4
+2016,4,2,7,MIA,2,3
+2016,4,2,7,GSW,1,4
+2016,4,2,7,POR,5,1
+2016,4,2,7,OKC,3,4
+2016,4,2,7,SAS,2,2
+2016,4,1,7,CLE,1,4
+2016,4,1,7,MIA,,4
+2016,4,1,7,ATL,4,4
+2016,4,1,7,BOS,5,2
+2016,4,1,7,TOR,2,4
+2016,4,1,7,CHA,6,3
+2016,4,1,7,IND,7,3
+2016,4,1,7,DET,8,0
+2016,4,1,7,GSW,,4
+2016,4,1,7,HOU,8,1
+2016,4,1,7,LAC,4,2
+2016,4,1,7,POR,5,4
+2016,4,1,7,OKC,3,4
+2016,4,1,7,DAL,6,1
+2016,4,1,7,SAS,2,4
+2016,4,1,7,MEM,7,0
+2017,4,4,7,CLE,2,1
+2017,4,4,7,GSW,1,4
+2017,4,3,7,BOS,1,1
+2017,4,3,7,CLE,2,4
+2017,4,3,7,GSW,1,4
+2017,4,3,7,SAS,2,0
+2017,4,2,7,BOS,1,4
+2017,4,2,7,WAS,4,3
+2017,4,2,7,TOR,3,0
+2017,4,2,7,CLE,2,4
+2017,4,2,7,GSW,1,4
+2017,4,2,7,UTA,5,0
+2017,4,2,7,HOU,3,2
+2017,4,2,7,SAS,2,4
+2017,4,1,7,BOS,1,4
+2017,4,1,7,CHI,8,2
+2017,4,1,7,WAS,4,4
+2017,4,1,7,ATL,5,2
+2017,4,1,7,TOR,3,4
+2017,4,1,7,MIL,6,2
+2017,4,1,7,CLE,2,4
+2017,4,1,7,IND,7,0
+2017,4,1,7,GSW,1,4
+2017,4,1,7,POR,8,0
+2017,4,1,7,LAC,4,3
+2017,4,1,7,UTA,5,4
+2017,4,1,7,HOU,3,4
+2017,4,1,7,OKC,8,1
+2017,4,1,7,SAS,2,4
+2017,4,1,7,MEM,7,2
+2018,4,4,7,CLE,4,0
+2018,4,4,7,GSW,2,4
+2018,4,3,7,CLE,4,4
+2018,4,3,7,BOS,2,3
+2018,4,3,7,HOU,1,3
+2018,4,3,7,GSW,2,4
+2018,4,2,7,TOR,1,0
+2018,4,2,7,CLE,4,4
+2018,4,2,7,PHI,3,1
+2018,4,2,7,BOS,2,4
+2018,4,2,7,HOU,1,4
+2018,4,2,7,UTA,5,1
+2018,4,2,7,NOP,6,1
+2018,4,2,7,GSW,2,4
+2018,4,1,7,TOR,1,4
+2018,4,1,7,WAS,8,2
+2018,4,1,7,CLE,4,4
+2018,4,1,7,IND,5,3
+2018,4,1,7,PHI,3,4
+2018,4,1,7,MIA,6,1
+2018,4,1,7,BOS,2,4
+2018,4,1,7,MIL,7,3
+2018,4,1,7,HOU,1,4
+2018,4,1,7,MIN,8,1
+2018,4,1,7,OKC,4,2
+2018,4,1,7,UTA,5,4
+2018,4,1,7,POR,3,0
+2018,4,1,7,NOP,6,4
+2018,4,1,7,GSW,2,4
+2018,4,1,7,SAS,7,1
+2019,4,4,7,TOR,2,4
+2019,4,4,7,GSW,1,2
+2019,4,3,7,TOR,2,4
+2019,4,3,7,MIL,1,2
+2019,4,3,7,GSW,1,4
+2019,4,3,7,POR,3,0
+2019,4,2,7,GSW,1,4
+2019,4,2,7,HOU,4,2
+2019,4,2,7,POR,3,4
+2019,4,2,7,DEN,2,3
+2019,4,2,7,MIL,1,4
+2019,4,2,7,BOS,4,1
+2019,4,2,7,PHI,3,3
+2019,4,2,7,TOR,2,4
+2019,4,1,7,GSW,1,4
+2019,4,1,7,LAC,8,2
+2019,4,1,7,HOU,4,4
+2019,4,1,7,UTA,5,1
+2019,4,1,7,POR,3,4
+2019,4,1,7,OKC,6,1
+2019,4,1,7,DEN,2,4
+2019,4,1,7,SAS,7,3
+2019,4,1,7,MIL,1,4
+2019,4,1,7,DET,8,0
+2019,4,1,7,BOS,4,4
+2019,4,1,7,IND,5,0
+2019,4,1,7,PHI,3,4
+2019,4,1,7,BRK,6,1
+2019,4,1,7,TOR,2,4
+2019,4,1,7,ORL,7,1
+
+# first ever play in; weird format this year
+2020,4,0,?,POR,8,1
+2020,4,0,?,MEM,9,0
+# regular playoffs
+2020,4,1,7,MIL,1,4
+2020,4,1,7,ORL,8,1
+2020,4,1,7,IND,4,0
+2020,4,1,7,MIA,5,4
+2020,4,1,7,BOS,3,4
+2020,4,1,7,PHI,6,0
+2020,4,1,7,TOR,2,4
+2020,4,1,7,BRK,7,0
+2020,4,1,7,LAL,1,4
+2020,4,1,7,POR,8,1
+2020,4,1,7,HOU,4,4
+2020,4,1,7,OKC,5,3
+2020,4,1,7,DEN,3,4
+2020,4,1,7,UTA,6,3
+2020,4,1,7,LAC,2,4
+2020,4,1,7,DAL,7,2
+2020,4,2,7,MIL,1,1
+2020,4,2,7,MIA,5,4
+2020,4,2,7,BOS,3,4
+2020,4,2,7,TOR,2,3
+2020,4,2,7,LAL,1,4
+2020,4,2,7,HOU,4,1
+2020,4,2,7,LAC,2,3
+2020,4,2,7,DEN,3,4
+2020,4,3,7,MIA,5,4
+2020,4,3,7,BOS,3,2
+2020,4,3,7,LAL,1,4
+2020,4,3,7,DEN,3,1
+2020,4,4,7,MIA,5,2
+2020,4,4,7,LAL,1,4
+
+# play in
+2021,4,0,?,LAL,7,1
+2021,4,0,?,GSW,8,0
+2021,4,0,?,MEM,9,2
+2021,4,0,?,SAS,10,0
+2021,4,0,?,BOS,7,1
+2021,4,0,?,WAS,8,1
+2021,4,0,?,IND,9,1
+2021,4,0,?,CHA,10,0
+# regular playoffs
+2021,4,1,7,PHI,1,4
+2021,4,1,7,WAS,8,1
+2021,4,1,7,NYK,4,1
+2021,4,1,7,ATL,5,4
+2021,4,1,7,MIL,3,4
+2021,4,1,7,MIA,6,0
+2021,4,1,7,BRK,2,4
+2021,4,1,7,BOS,7,1
+2021,4,1,7,UTA,1,4
+2021,4,1,7,MEM,9,1
+2021,4,1,7,LAC,4,4
+2021,4,1,7,DAL,5,3
+2021,4,1,7,DEN,3,4
+2021,4,1,7,POR,6,2
+2021,4,1,7,PHX,2,4
+2021,4,1,7,LAL,7,2
+2021,4,2,7,PHI,1,3
+2021,4,2,7,ATL,5,4
+2021,4,2,7,MIL,3,4
+2021,4,2,7,BRK,2,3
+2021,4,2,7,UTA,1,2
+2021,4,2,7,LAC,4,4
+2021,4,2,7,DEN,3,0
+2021,4,2,7,PHX,2,4
+2021,4,3,7,MIL,3,4
+2021,4,3,7,ATL,5,2
+2021,4,3,7,PHX,2,4
+2021,4,3,7,LAC,4,2
+2021,4,4,7,MIL,3,4
+2021,4,4,7,PHX,2,2
+
+# play in
+2022,4,0,?,MIN,7,1
+2022,4,0,?,LAC,8,0
+2022,4,0,?,NOP,9,2
+2022,4,0,?,SAS,10,0
+2022,4,0,?,BRK,7,1
+2022,4,0,?,CLE,8,0
+2022,4,0,?,ATL,9,2
+2022,4,0,?,CHA,10,0
+# regular playoffs
+2022,4,1,7,MIA,1,4
+2022,4,1,7,ATL,9,1
+2022,4,1,7,PHI,4,4
+2022,4,1,7,TOR,5,2
+2022,4,1,7,BOS,2,4
+2022,4,1,7,BKN,7,0
+2022,4,1,7,MIL,3,4
+2022,4,1,7,CHI,6,1
+2022,4,2,7,MIA,1,4
+2022,4,2,7,PHI,4,2
+2022,4,2,7,BOS,2,4
+2022,4,2,7,MIL,3,3
+2022,4,3,7,MIA,1,3
+2022,4,3,7,BOS,2,4
+2022,4,1,7,PHX,1,4
+2022,4,1,7,NOP,9,2
+2022,4,1,7,DAL,4,4
+2022,4,1,7,UTA,5,2
+2022,4,1,7,GSW,3,4
+2022,4,1,7,DEN,6,1
+2022,4,1,7,MEM,2,4
+2022,4,1,7,MIN,7,2
+2022,4,2,7,PHX,1,3
+2022,4,2,7,DAL,4,4
+2022,4,2,7,MEM,2,2
+2022,4,2,7,GSW,3,4
+2022,4,3,7,GSW,3,4
+2022,4,3,7,DAL,4,1
+2022,4,4,7,BOS,2,2
+2022,4,4,7,GSW,3,4
+
+
+# play in
+2023,4,0,?,LAL,7,1
+2023,4,0,?,MIN,8,1
+2023,4,0,?,NOP,9,0
+2023,4,0,?,OKC,10,1
+2023,4,0,?,MIA,7,1
+2023,4,0,?,ATL,8,1
+2023,4,0,?,TOR,9,0
+2023,4,0,?,CHI,10,1
+# regular playoffs
+2023,4,1,7,MIL,1,1
+2023,4,1,7,MIA,7,4
+2023,4,1,7,CLE,4,1
+2023,4,1,7,NYK,5,4
+2023,4,1,7,PHI,3,4
+2023,4,1,7,BKN,6,0
+2023,4,1,7,BOS,2,4
+2023,4,1,7,ATL,8,2
+2023,4,1,7,DEN,1,4
+2023,4,1,7,MIN,8,1
+2023,4,1,7,PHX,4,4
+2023,4,1,7,LAC,5,1
+2023,4,1,7,SAC,3,3
+2023,4,1,7,GSW,6,4
+2023,4,1,7,MEM,2,2
+2023,4,1,7,LAL,7,4
+2023,4,2,7,MIA,7,4
+2023,4,2,7,NYK,5,2
+2023,4,2,7,PHI,3,3
+2023,4,2,7,BOS,2,4
+2023,4,2,7,DEN,1,4
+2023,4,2,7,PHX,4,2
+2023,4,2,7,GSW,6,2
+2023,4,2,7,LAL,7,4
+2023,4,3,7,MIA,7,4
+2023,4,3,7,BOS,2,3
+2023,4,3,7,DEN,1,4
+2023,4,3,7,LAL,7,0
+2023,4,4,7,DEN,1,4
+2023,4,4,7,MIA,7,1
+
+# play in
+2024,4,0,?,NOP,7,1
+2024,4,0,?,LAL,8,1
+2024,4,0,?,SAC,9,0
+2024,4,0,?,GSW,10,1
+2024,4,0,?,PHI,7,1
+2024,4,0,?,MIA,8,1
+2024,4,0,?,CHI,9,1
+2024,4,0,?,ATL,10,0
+# regular playoffs
+2024,4,1,7,BOS,1,4
+2024,4,1,7,MIA,8,1
+2024,4,1,7,CLE,4,4
+2024,4,1,7,ORL,5,3
+2024,4,1,7,IND,6,4
+2024,4,1,7,MIL,3,2
+2024,4,1,7,NYK,2,4
+2024,4,1,7,PHI,7,2
+2024,4,1,7,OKC,1,4
+2024,4,1,7,NOP,8,0
+2024,4,1,7,LAC,4,2
+2024,4,1,7,DAL,5,4
+2024,4,1,7,MIN,3,4
+2024,4,1,7,PHX,6,0
+2024,4,1,7,DEN,2,4
+2024,4,1,7,LAL,7,1
+2024,4,2,7,BOS,1,4
+2024,4,2,7,CLE,4,1
+2024,4,2,7,IND,6,4
+2024,4,2,7,NYK,2,3
+2024,4,2,7,OKC,1,2
+2024,4,2,7,DAL,5,4
+2024,4,2,7,MIN,3,4
+2024,4,2,7,DEN,2,3
+2024,4,3,7,BOS,1,4
+2024,4,3,7,IND,6,0
+2024,4,3,7,DAL,5,4
+2024,4,3,7,MIN,3,1
+2024,4,4,7,BOS,1,4
+2024,4,4,7,DAL,5,1

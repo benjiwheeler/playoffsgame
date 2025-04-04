@@ -1,0 +1,890 @@
+# year,team,score,seed,numwins
+1948,Baltimore Bullets,149.333,2,17.3333
+1948,Boston Celtics,77,3,6.33333
+1948,Chicago Stags,118,3,8.66667
+1948,New York Knicks,45.3333,2,6.33333
+1948,Philadelphia Warriors,26,1,6
+1948,St. Louis Bombers,3,1,3
+1949,Baltimore Bullets,77,3,6.33333
+1949,Chicago Stags,56,3,4
+1949,Minneapolis Lakers,149.333,2,17.3333
+1949,New York Knicks,84,2,11
+1949,Philadelphia Warriors,84,4,4
+1949,Rochester Royals,48.6667,1,8.66667
+1949,St. Louis Bombers,84,4,4
+1949,Washington Capitols,75.3333,1,15.3333
+1950,Anderson Packers,77.3333,2,9.33333
+1950,Chicago Stags,0,4,0
+1950,Fort Wayne Pistons,62,3,4.66667
+1950,Indianapolis Olympians,27,1,7
+1950,Minneapolis Lakers,98,1,18
+1950,New York Knicks,48,2,7
+1950,Philadelphia Warriors,0,4,0
+1950,Rochester Royals,0,2,0
+1950,Sheboygan Red Skins,37.3333,4,2.33333
+1950,Syracuse Nationals,51.3333,1,11.3333
+1950,Tri-Cities Blackhawks,21,3,2.33333
+1950,Washington Capitols,0,3,0
+1951,Boston Celtics,36,2,4
+1951,Fort Wayne Pistons,77,3,6.33333
+1951,Indianapolis Olympians,121.333,4,6.33333
+1951,Minneapolis Lakers,50.0667,1,10.0667
+1951,New York Knicks,202.8,3,15.8667
+1951,Philadelphia Warriors,24,1,4
+1951,Rochester Royals,147.467,2,16.8667
+1951,Syracuse Nationals,223.467,4,11.4667
+1952,Boston Celtics,45.3333,2,6.33333
+1952,Fort Wayne Pistons,84,4,4
+1952,Indianapolis Olympians,56,3,4
+1952,Minneapolis Lakers,147.467,2,16.8667
+1952,New York Knicks,202.8,3,15.8667
+1952,Philadelphia Warriors,121.333,4,6.33333
+1952,Rochester Royals,50.0667,1,10.0667
+1952,Syracuse Nationals,50.0667,1,10.0667
+1953,Baltimore Bullets,84,4,4
+1953,Boston Celtics,130.6,3,10.0667
+1953,Fort Wayne Pistons,143.2,3,11.4667
+1953,Indianapolis Olympians,84,4,4
+1953,Minneapolis Lakers,96.8667,1,16.8667
+1953,New York Knicks,73.8667,1,13.8667
+1953,Rochester Royals,45.3333,2,6.33333
+1953,Syracuse Nationals,36,2,4
+1954,Boston Celtics,0,3,0
+1954,Minneapolis Lakers,48.6667,1,8.66667
+1954,Rochester Royals,9.33333,2,2.33333
+1954,Syracuse Nationals,50.6667,2,7.66667
+1955,Boston Celtics,130.6,3,10.0667
+1955,Fort Wayne Pistons,27.2,1,7.2
+1955,Minneapolis Lakers,80.2667,2,10.0667
+1955,New York Knicks,45.3333,2,6.33333
+1955,Rochester Royals,77,3,6.33333
+1955,Syracuse Nationals,48.2,1,8.2
+1956,Boston Celtics,45.3333,2,6.33333
+1956,Fort Wayne Pistons,25.2,1,5.2
+1956,Minneapolis Lakers,129.333,2,17.3333
+1956,New York Knicks,84,4,4
+1956,Philadelphia Warriors,48.2,1,8.2
+1956,St. Louis Hawks,199.2,3,15.4667
+1956,Syracuse Nationals,282.2,3,22.4667
+1957,Boston Celtics,48.2,1,8.2
+1957,Fort Wayne Pistons,112,3,8
+1957,Minneapolis Lakers,110.667,2,12.6667
+1957,Philadelphia Warriors,56,3,4
+1957,St. Louis Hawks,129.2,1,29.2
+1957,Syracuse Nationals,74.6667,2,8.66667
+1958,Boston Celtics,26,1,6
+1958,Cincinnati Royals,56,3,4
+1958,Detroit Pistons,78.6667,2,9.66667
+1958,Philadelphia Warriors,127,3,9.66667
+1958,St. Louis Hawks,48,1,8
+1958,Syracuse Nationals,45.3333,2,6.33333
+1959,Boston Celtics,48,1,8
+1959,Detroit Pistons,77,3,6.33333
+1959,Minneapolis Lakers,110.667,2,12.6667
+1959,New York Knicks,36,2,4
+1959,St. Louis Hawks,2,1,2
+1959,Syracuse Nationals,145,3,11.6667
+1960,Boston Celtics,48,1,8
+1960,Detroit Pistons,36,2,4
+1960,Minneapolis Lakers,145,3,11.6667
+1960,Philadelphia Warriors,74.6667,2,8.66667
+1960,Philadelphia Warrios,8,2,2
+1960,St. Louis Hawks,27,1,7
+1960,Syracuse Nationals,77,3,6.33333
+1961,Boston Celtics,48,1,8
+1961,Detroit Pistons,81.2,3,6.8
+1961,Los Angeles Lakers,84.8,2,11.2
+1961,Philadelphia Warriors,36,2,4
+1961,St. Louis Hawks,25,1,5
+1961,Syracuse Nationals,122.8,3,9.2
+1962,Boston Celtics,48,1,8
+1962,Cincinnati Royals,41.6,2,5.4
+1962,Detroit Pistons,131.8,3,10.2
+1962,Los Angeles Lakers,27,1,7
+1962,Philadelphia Warriors,72.8,2,8.2
+1962,Phildelphia Warriors,12,2,3
+1962,Syracuse Nationals,81.2,3,6.8
+1963,Boston Celtics,48,1,8
+1963,Cincinnati Royals,140.8,3,11.2
+1963,Detroit Pistons,68.6,3,5.4
+1963,Los Angeles Lakers,26,1,6
+1963,St. Louis Hawks,84.8,2,11.2
+1963,Syracuse Nationals,47.2,2,6.8
+1964,Boston Celtics,48,1,8
+1964,Cincinnati Royals,76.8,2,9.2
+1964,Los Angeles Lakers,81.2,3,6.8
+1964,Philadelphia 76ers,81.2,3,6.8
+1964,San Francisco Warriors,25,1,5
+1964,St. Louis Hawks,84.8,2,11.2
+1965,Baltimore Bullets,131.8,3,10.2
+1965,Boston Celtics,48,1,8
+1965,Cincinnati Royals,41.6,2,5.4
+1965,Los Angeles Lakers,25,1,5
+1965,Philadelphia 76ers,140.8,3,11.2
+1965,St. Louis Hawks,41.6,2,5.4
+1966,Baltimore Bullets,36,2,4
+1966,Boston Celtics,144.8,2,16.2
+1966,Cincinnati Royals,81.2,3,6.8
+1966,Los Angeles Lakers,27,1,7
+1966,Philadelphia 76ers,1,1,1
+1966,St. Louis Hawks,140.8,3,11.2
+1967,Boston Celtics,76.8,2,9.2
+1967,Chicago Bulls,84,4,4
+1967,Cincinnati Royals,68.6,3,5.4
+1967,Los Angeles Lakers,56,3,4
+1967,New York Knicks,106.4,4,5.4
+1967,Philadelphia 76ers,96.2,1,16.2
+1967,San Francisco Warriors,74.2,1,14.2
+1967,St. Louis Hawks,80.8,2,10.2
+1968,Boston Celtics,144,2,16
+1968,Chicago Bulls,100,4,5
+1968,Detroit Pistons,116,4,6
+1968,Los Angeles Lakers,116,2,14
+1968,New York Knicks,74,3,6
+1968,Philadelphia 76ers,51,1,11
+1968,San Francisco Warriors,112,3,8
+1968,St. Louis Hawks,26,1,6
+1969,Atlanta Hawks,76,2,9
+1969,Baltimore Bullets,24,1,4
+1969,Boston Celtics,336,4,16
+1969,Los Angeles Lakers,75,1,15
+1969,New York Knicks,130,3,10
+1969,Philadelphia 76ers,40,2,5
+1969,San Diego Rockets,116,4,6
+1969,San Francisco Warriors,74,3,6
+1970,Atlanta Hawks,48,1,8
+1970,Baltimore Bullets,83,3,7
+1970,Chicago Bulls,100,4,5
+1970,Los Angeles Lakers,120,2,15
+1970,Milwaukee Bucks,76,2,9
+1970,New York Knicks,96,1,16
+1970,Philadelphia 76ers,100,4,5
+1970,Phoenix Suns,83,3,7
+1971,Atlanta Hawks,40,2,5
+1971,Baltimore Bullets,84,1,12
+1971,Chicago Bulls,48,2,7
+1971,Los Angeles Lakers,52,1,9
+1971,Milwaukee Bucks,96,1,16
+1971,New York Knicks,51,1,11
+1971,Philadelphia 76ers,48,2,7
+1971,San Francisco Warriors,40,2,5
+1972,Atlanta Hawks,44,2,6
+1972,Baltimore Bullets,26,1,6
+1972,Boston Celtics,49,1,9
+1972,Chicago Bulls,36,2,4
+1972,Golden State Warriors,40,2,5
+1972,Los Angeles Lakers,96,1,16
+1972,Milwaukee Bucks,56,1,10
+1972,New York Knicks,112,2,13
+1973,Atlanta Hawks,116,4,6
+1973,Baltimore Bullets,65,3,5
+1973,Boston Celtics,51,1,11
+1973,Chicago Bulls,83,3,7
+1973,Golden State Warriors,184,4,9
+1973,Los Angeles Lakers,112,2,13
+1973,Milwaukee Bucks,26,1,6
+1973,New York Knicks,144,2,16
+1974,Boston Celtics,96,1,16
+1974,Buffalo Braves,116,4,6
+1974,Capital Bullets,83,3,7
+1974,Chicago Bulls,72,2,8
+1974,Detroit Pistons,83,3,7
+1974,Los Angeles Lakers,100,4,5
+1974,Milwaukee Bucks,75,1,15
+1974,New York Knicks,76,2,9
+1975,Boston Celtics,26,1,6
+1975,Buffalo Braves,27,3,3
+1975,Chicago Bulls,48,2,7
+1975,Detroit Pistons,58.3333,5,2.33333
+1975,Golden State Warriors,72,1,12
+1975,Houston Rockets,110.667,4,5.66667
+1975,Kansas City-Omaha Kings,18,3,2
+1975,New York Knicks,58.3333,5,2.33333
+1975,Seattle Supersonics,126.667,4,6.66667
+1975,Washington Bullets,72,2,8
+1976,Boston Celtics,72,1,12
+1976,Buffalo Braves,186.667,5,6.66667
+1976,Cleveland Cavaliers,44,2,6
+1976,Detroit Pistons,186.667,5,6.66667
+1976,Golden State Warriors,27,1,7
+1976,Milwaukee Bucks,37.3333,4,2.33333
+1976,Philadelphia 76ers,37.3333,4,2.33333
+1976,Phoenix Suns,130,3,10
+1976,Seattle Supersonics,8,2,2
+1976,Washington Bullets,27,3,3
+1977,Boston Celtics,142.667,4,7.66667
+1977,Chicago Bulls,84,6,2.33333
+1977,Cleveland Cavaliers,84,6,2.33333
+1977,Denver Nuggets,8,2,2
+1977,Detroit Pistons,58.3333,5,2.33333
+1977,Golden State Warriors,142.667,4,7.66667
+1977,Houston Rockets,44,2,6
+1977,Los Angeles Lakers,24,1,4
+1977,Philadelphia 76ers,50,1,10
+1977,Portland Trail Blazers,230,3,16.6667
+1977,San Antonio Spurs,0,5,0
+1977,Washington Bullets,80,3,6.66667
+1978,Atlanta Hawks,0,6,0
+1978,Cleveland Cavaliers,0,4,0
+1978,Denver Nuggets,44,2,6
+1978,Los Angeles Lakers,58.3333,5,2.33333
+1978,Milwaukee Bucks,296,6,7.66667
+1978,New York Knicks,136.667,5,4.66667
+1978,Philadelphia 76ers,26,1,6
+1978,Phoenix Suns,0,3,0
+1978,Portland Trail Blazers,2,1,2
+1978,San Antonio Spurs,8,2,2
+1978,Seattle Supersonics,310.667,4,15.6667
+1978,Washington Bullets,230,3,16.6667
+1979,Atlanta Hawks,211.667,5,7.66667
+1979,Denver Nuggets,37.3333,4,2.33333
+1979,Houston Rockets,0,4,0
+1979,Kansas City Kings,4,2,1
+1979,Los Angeles Lakers,161.667,5,5.66667
+1979,New Jersey Nets,0,6,0
+1979,Philadelphia 76ers,89,3,7.66667
+1979,Phoenix Suns,145,3,11.6667
+1979,Portland Trail Blazers,84,6,2.33333
+1979,San Antonio Spurs,48,2,7
+1979,Seattle Supersonics,72,1,12
+1979,Washington Bullets,49,1,9
+1980,Atlanta Hawks,4,2,1
+1980,Boston Celtics,25,1,5
+1980,Houston Rockets,94.6667,4,4.66667
+1980,Kansas City Kings,58.3333,5,2.33333
+1980,Los Angeles Lakers,72,1,12
+1980,Milwaukee Bucks,12,2,3
+1980,Philadelphia 76ers,192,3,14.6667
+1980,Phoenix Suns,110.667,4,5.66667
+1980,Portland Trail Blazers,84,6,2.33333
+1980,San Antonio Spurs,58.3333,5,2.33333
+1980,Seattle Supersonics,127,3,9.66667
+1980,Washington Bullets,0,6,0
+1981,Boston Celtics,72,1,12
+1981,Chicago Bulls,136.667,5,4.66667
+1981,Houston Rockets,588,6,14.6667
+1981,Indiana Pacers,0,6,0
+1981,Kansas City Kings,281.667,5,9.66667
+1981,Los Angeles Lakers,21,3,2.33333
+1981,Milwaukee Bucks,12,2,3
+1981,New York Knicks,0,4,0
+1981,Philadelphia 76ers,145,3,11.6667
+1981,Phoenix Suns,3,1,3
+1981,Portland Trail Blazers,37.3333,4,2.33333
+1981,San Antonio Spurs,12,2,3
+1982,Atlanta Hawks,0,6,0
+1982,Boston Celtics,27,1,7
+1982,Denver Nuggets,37.3333,4,2.33333
+1982,Houston Rockets,84,6,2.33333
+1982,Los Angeles Lakers,72,1,12
+1982,Milwaukee Bucks,8,2,2
+1982,New Jersey Nets,0,4,0
+1982,Philadelphia 76ers,192,3,14.6667
+1982,Phoenix Suns,136.667,5,4.66667
+1982,San Antonio Spurs,36,2,4
+1982,Seattle Supersonics,71,3,5.66667
+1982,Washington Bullets,161.667,5,5.66667
+1983,Atlanta Hawks,84,6,2.33333
+1983,Boston Celtics,62,3,4.66667
+1983,Denver Nuggets,224,6,5.66667
+1983,Los Angeles Lakers,48,1,8
+1983,Milwaukee Bucks,40,2,5
+1983,New Jersey Nets,0,4,0
+1983,New York Knicks,136.667,5,4.66667
+1983,Philadelphia 76ers,75,1,15
+1983,Phoenix Suns,21,3,2.33333
+1983,Portland Trail Blazers,161.667,5,5.66667
+1983,San Antonio Spurs,44,2,6
+1983,Seattle Supersonics,0,4,0
+1984,Atlanta Hawks,137.2,7,2.8
+1984,Boston Celtics,99.2,1,19.2
+1984,Dallas Mavericks,103.2,4,5.2
+1984,Denver Nuggets,137.2,7,2.8
+1984,Detroit Pistons,44.8,4,2.8
+1984,Kansas City Kings,0,8,0
+1984,Los Angeles Lakers,97.45,1,17.45
+1984,Milwaukee Bucks,76.8,2,9.2
+1984,New Jersey Nets,243.2,6,6.2
+1984,New York Knicks,200,5,7.2
+1984,Philadelphia 76ers,25.2,3,2.8
+1984,Phoenix Suns,407.2,6,10.2
+1984,Portland Trail Blazers,25.2,3,2.8
+1984,Seattle Supersonics,70,5,2.8
+1984,Utah Jazz,44.8,2,6.2
+1984,Washington Bullets,89.6,8,1.4
+1985,Boston Celtics,74.2,1,14.2
+1985,Chicago Bulls,68.6,7,1.4
+1985,Cleveland Cavaliers,89.6,8,1.4
+1985,Dallas Mavericks,22.4,4,1.4
+1985,Denver Nuggets,76.8,2,9.2
+1985,Detroit Pistons,119.2,4,6.2
+1985,Houston Rockets,25.2,3,2.8
+1985,Los Angeles Lakers,96.2,1,16.2
+1985,Milwaukee Bucks,36.8,2,4.2
+1985,New Jersey Nets,0,5,0
+1985,Philadelphia 76ers,122.8,3,9.2
+1985,Phoenix Suns,0,8,0
+1985,Portland Trail Blazers,150,5,5.2
+1985,San Antonio Spurs,137.2,7,2.8
+1985,Utah Jazz,207.2,6,5.2
+1985,Washington Bullets,50.4,6,1.4
+1986,Atlanta Hawks,103.2,4,5.2
+1986,Boston Celtics,96.2,1,16.2
+1986,Chicago Bulls,0,8,0
+1986,Dallas Mavericks,119.2,4,6.2
+1986,Denver Nuggets,75.8,3,6.2
+1986,Detroit Pistons,35,5,1.4
+1986,Houston Rockets,116.8,2,14.2
+1986,Los Angeles Lakers,49.2,1,9.2
+1986,Milwaukee Bucks,72.8,2,8.2
+1986,New Jersey Nets,0,7,0
+1986,Philadelphia 76ers,84.8,3,7.2
+1986,Portland Trail Blazers,50.4,6,1.4
+1986,Sacramento Kings,0,7,0
+1986,San Antonio Spurs,0,8,0
+1986,Utah Jazz,35,5,1.4
+1986,Washington Bullets,100.8,6,2.8
+1987,Atlanta Hawks,40.8,2,5.2
+1987,Boston Celtics,74.2,1,14.2
+1987,Chicago Bulls,0,8,0
+1987,Dallas Mavericks,5.6,2,1.4
+1987,Denver Nuggets,0,8,0
+1987,Detroit Pistons,140.8,3,11.2
+1987,Golden State Warriors,150,5,5.2
+1987,Houston Rockets,243.2,6,6.2
+1987,Indiana Pacers,68.6,7,1.4
+1987,Los Angeles Lakers,96.2,1,16.2
+1987,Milwaukee Bucks,135.2,4,7.2
+1987,Philadelphia 76ers,70,5,2.8
+1987,Portland Trail Blazers,12.6,3,1.4
+1987,Seattle Supersonics,441.8,7,8.2
+1987,Utah Jazz,44.8,4,2.8
+1987,Washington Bullets,0,6,0
+1988,Atlanta Hawks,135.2,4,7.2
+1988,Boston Celtics,50.2,1,10.2
+1988,Chicago Bulls,66.8,3,5.2
+1988,Cleveland Cavaliers,100.8,6,2.8
+1988,Dallas Mavericks,140.8,3,11.2
+1988,Denver Nuggets,44.8,2,6.2
+1988,Detroit Pistons,120.8,2,15.2
+1988,Houston Rockets,50.4,6,1.4
+1988,Los Angeles Lakers,96.2,1,16.2
+1988,Milwaukee Bucks,70,5,2.8
+1988,New York Knicks,89.6,8,1.4
+1988,Portland Trail Blazers,22.4,4,1.4
+1988,San Antonio Spurs,0,8,0
+1988,Seattle Supersonics,137.2,7,2.8
+1988,Utah Jazz,200,5,7.2
+1988,Washington Bullets,137.2,7,2.8
+1989,Atlanta Hawks,44.8,4,2.8
+1989,Boston Celtics,0,8,0
+1989,Chicago Bulls,407.2,6,10.2
+1989,Cleveland Cavaliers,25.2,3,2.8
+1989,Denver Nuggets,0,6,0
+1989,Detroit Pistons,96.2,1,16.2
+1989,Golden State Warriors,274.8,7,5.2
+1989,Houston Rockets,35,5,1.4
+1989,Los Angeles Lakers,72.2,1,12.2
+1989,Milwaukee Bucks,125,5,4.2
+1989,New York Knicks,44.8,2,6.2
+1989,Philadelphia 76ers,0,7,0
+1989,Phoenix Suns,113.8,3,8.2
+1989,Portland Trail Blazers,0,8,0
+1989,Seattle Supersonics,87.2,4,4.2
+1989,Utah Jazz,0,2,0
+1990,Boston Celtics,44.8,4,2.8
+1990,Chicago Bulls,140.8,3,11.2
+1990,Cleveland Cavaliers,137.2,7,2.8
+1990,Dallas Mavericks,0,6,0
+1990,Denver Nuggets,0,7,0
+1990,Detroit Pistons,96.2,1,16.2
+1990,Houston Rockets,89.6,8,1.4
+1990,Indiana Pacers,0,8,0
+1990,Los Angeles Lakers,25.2,1,5.2
+1990,Milwaukee Bucks,50.4,6,1.4
+1990,New York Knicks,150,5,5.2
+1990,Philadelphia 76ers,40.8,2,5.2
+1990,Phoenix Suns,295,5,10.2
+1990,Portland Trail Blazers,178.8,3,13.2
+1990,San Antonio Spurs,48.8,2,7.2
+1990,Utah Jazz,44.8,4,2.8
+1991,Atlanta Hawks,100.8,6,2.8
+1991,Boston Celtics,44.8,2,6.2
+1991,Chicago Bulls,96.2,1,16.2
+1991,Detroit Pistons,113.8,3,8.2
+1991,Golden State Warriors,274.8,7,5.2
+1991,Houston Rockets,0,6,0
+1991,Indiana Pacers,137.2,7,2.8
+1991,Los Angeles Lakers,178.8,3,13.2
+1991,Milwaukee Bucks,0,4,0
+1991,New York Knicks,0,8,0
+1991,Philadelphia 76ers,150,5,5.2
+1991,Phoenix Suns,22.4,4,1.4
+1991,Portland Trail Blazers,50.2,1,10.2
+1991,San Antonio Spurs,5.6,2,1.4
+1991,Seattle Supersonics,179.2,8,2.8
+1991,Utah Jazz,150,5,5.2
+1992,Boston Celtics,48.8,2,7.2
+1992,Chicago Bulls,96.2,1,16.2
+1992,Cleveland Cavaliers,131.8,3,10.2
+1992,Detroit Pistons,70,5,2.8
+1992,Golden State Warriors,12.6,3,1.4
+1992,Indiana Pacers,0,7,0
+1992,Los Angeles Clippers,137.2,7,2.8
+1992,Los Angeles Lakers,89.6,8,1.4
+1992,Miami Heat,0,8,0
+1992,New Jersey Nets,50.4,6,1.4
+1992,New York Knicks,135.2,4,7.2
+1992,Phoenix Suns,103.2,4,5.2
+1992,Portland Trail Blazers,74.2,1,14.2
+1992,San Antonio Spurs,0,5,0
+1992,Seattle Supersonics,207.2,6,5.2
+1992,Utah Jazz,80.8,2,10.2
+1993,Atlanta Hawks,0,7,0
+1993,Boston Celtics,22.4,4,1.4
+1993,Charlotte Hornets,150,5,5.2
+1993,Chicago Bulls,144.8,2,16.2
+1993,Cleveland Cavaliers,57.8,3,4.2
+1993,Houston Rockets,48.8,2,7.2
+1993,Indiana Pacers,89.6,8,1.4
+1993,Los Angeles Clippers,137.2,7,2.8
+1993,Los Angeles Lakers,179.2,8,2.8
+1993,New Jersey Nets,100.8,6,2.8
+1993,New York Knicks,50.2,1,10.2
+1993,Phoenix Suns,74.2,1,14.2
+1993,Portland Trail Blazers,22.4,4,1.4
+1993,San Antonio Spurs,175,5,6.2
+1993,Seattle Supersonics,140.8,3,11.2
+1993,Utah Jazz,100.8,6,2.8
+1994,Atlanta Hawks,26.2,1,6.2
+1994,Chicago Bulls,84.8,3,7.2
+1994,Cleveland Cavaliers,0,6,0
+1994,Denver Nuggets,480.8,8,7.2
+1994,Golden State Warriors,0,6,0
+1994,Houston Rockets,144.8,2,16.2
+1994,Indiana Pacers,320,5,11.2
+1994,Miami Heat,179.2,8,2.8
+1994,New Jersey Nets,68.6,7,1.4
+1994,New York Knicks,120.8,2,15.2
+1994,Orlando Magic,0,4,0
+1994,Phoenix Suns,84.8,3,7.2
+1994,Portland Trail Blazers,68.6,7,1.4
+1994,San Antonio Spurs,22.4,4,1.4
+1994,Seattle Supersonics,2.8,1,2.8
+1994,Utah Jazz,270,5,9.2
+1995,Atlanta Hawks,0,7,0
+1995,Boston Celtics,89.6,8,1.4
+1995,Charlotte Hornets,22.4,4,1.4
+1995,Chicago Bulls,175,5,6.2
+1995,Cleveland Cavaliers,50.4,6,1.4
+1995,Denver Nuggets,0,8,0
+1995,Houston Rockets,663.2,6,16.2
+1995,Indiana Pacers,84.8,2,11.2
+1995,Los Angeles Lakers,175,5,6.2
+1995,New York Knicks,84.8,3,7.2
+1995,Orlando Magic,72.2,1,12.2
+1995,Phoenix Suns,48.8,2,7.2
+1995,Portland Trail Blazers,0,7,0
+1995,San Antonio Spurs,50.2,1,10.2
+1995,Seattle Supersonics,22.4,4,1.4
+1995,Utah Jazz,25.2,3,2.8
+1996,Atlanta Hawks,207.2,6,5.2
+1996,Chicago Bulls,96.2,1,16.2
+1996,Cleveland Cavaliers,0,4,0
+1996,Detroit Pistons,0,7,0
+1996,Houston Rockets,125,5,4.2
+1996,Indiana Pacers,25.2,3,2.8
+1996,Los Angeles Lakers,22.4,4,1.4
+1996,Miami Heat,0,8,0
+1996,New York Knicks,150,5,5.2
+1996,Orlando Magic,72.8,2,8.2
+1996,Phoenix Suns,68.6,7,1.4
+1996,Portland Trail Blazers,100.8,6,2.8
+1996,Sacramento Kings,89.6,8,1.4
+1996,San Antonio Spurs,44.8,2,6.2
+1996,Seattle Supersonics,74.2,1,14.2
+1996,Utah Jazz,140.8,3,11.2
+1997,Atlanta Hawks,103.2,4,5.2
+1997,Charlotte Hornets,0,6,0
+1997,Chicago Bulls,96.2,1,16.2
+1997,Detroit Pistons,70,5,2.8
+1997,Houston Rockets,131.8,3,10.2
+1997,Los Angeles Clippers,0,8,0
+1997,Los Angeles Lakers,103.2,4,5.2
+1997,Miami Heat,72.8,2,8.2
+1997,Minnesota Timberwolves,0,6,0
+1997,New York Knicks,84.8,3,7.2
+1997,Orlando Magic,137.2,7,2.8
+1997,Phoenix Suns,137.2,7,2.8
+1997,Portland Trail Blazers,35,5,1.4
+1997,Seattle Supersonics,48.8,2,7.2
+1997,Utah Jazz,74.2,1,14.2
+1997,Washington Bullets,0,8,0
+1998,Atlanta Hawks,35,5,1.4
+1998,Charlotte Hornets,103.2,4,5.2
+1998,Chicago Bulls,96.2,1,16.2
+1998,Cleveland Cavaliers,50.4,6,1.4
+1998,Houston Rockets,179.2,8,2.8
+1998,Indiana Pacers,140.8,3,11.2
+1998,Los Angeles Lakers,113.8,3,8.2
+1998,Miami Heat,11.2,2,2.8
+1998,Minnesota Timberwolves,137.2,7,2.8
+1998,New Jersey Nets,0,8,0
+1998,New York Knicks,274.8,7,5.2
+1998,Phoenix Suns,22.4,4,1.4
+1998,Portland Trail Blazers,50.4,6,1.4
+1998,San Antonio Spurs,150,5,5.2
+1998,Seattle Supersonics,40.8,2,5.2
+1998,Utah Jazz,74.2,1,14.2
+1999,Atlanta Hawks,87.2,4,4.2
+1999,Detroit Pistons,70,5,2.8
+1999,Houston Rockets,22.4,4,1.4
+1999,Indiana Pacers,80.8,2,10.2
+1999,Los Angeles Lakers,125,5,4.2
+1999,Miami Heat,2.8,1,2.8
+1999,Milwaukee Bucks,0,7,0
+1999,Minnesota Timberwolves,89.6,8,1.4
+1999,New York Knicks,904.8,8,13.2
+1999,Orlando Magic,12.6,3,1.4
+1999,Philadelphia 76ers,171.2,6,4.2
+1999,Phoenix Suns,0,6,0
+1999,Portland Trail Blazers,113.8,3,8.2
+1999,Sacramento Kings,137.2,7,2.8
+1999,San Antonio Spurs,96.2,1,16.2
+1999,Utah Jazz,44.8,2,6.2
+2000,Charlotte Hornets,35,5,1.4
+2000,Detroit Pistons,0,7,0
+2000,Indiana Pacers,74.2,1,14.2
+2000,Los Angeles Lakers,96.2,1,16.2
+2000,Miami Heat,48.8,2,7.2
+2000,Milwaukee Bucks,179.2,8,2.8
+2000,Minnesota Timberwolves,50.4,6,1.4
+2000,New York Knicks,131.8,3,10.2
+2000,Philadelphia 76ers,119.2,4,6.2
+2000,Phoenix Suns,150,5,5.2
+2000,Portland Trail Blazers,140.8,3,11.2
+2000,Sacramento Kings,179.2,8,2.8
+2000,San Antonio Spurs,22.4,4,1.4
+2000,Seattle Supersonics,137.2,7,2.8
+2000,Toronto Raptors,0,6,0
+2000,Utah Jazz,40.8,2,5.2
+2001,Charlotte Hornets,279.2,6,7.2
+2001,Dallas Mavericks,150,5,5.2
+2001,Indiana Pacers,89.6,8,1.4
+2001,Los Angeles Lakers,144.8,2,16.2
+2001,Miami Heat,0,3,0
+2001,Milwaukee Bucks,84.8,2,11.2
+2001,Minnesota Timberwolves,89.6,8,1.4
+2001,New York Knicks,44.8,4,2.8
+2001,Orlando Magic,68.6,7,1.4
+2001,Philadelphia 76ers,73.2,1,13.2
+2001,Phoenix Suns,50.4,6,1.4
+2001,Portland Trail Blazers,0,7,0
+2001,Sacramento Kings,57.8,3,4.2
+2001,San Antonio Spurs,48.2,1,8.2
+2001,Toronto Raptors,200,5,7.2
+2001,Utah Jazz,44.8,4,2.8
+2002,Boston Celtics,131.8,3,10.2
+2002,Charlotte Hornets,103.2,4,5.2
+2002,Dallas Mavericks,103.2,4,5.2
+2002,Detroit Pistons,40.8,2,5.2
+2002,Indiana Pacers,179.2,8,2.8
+2002,Los Angeles Lakers,225.8,3,16.2
+2002,Minnesota Timberwolves,0,5,0
+2002,New Jersey Nets,72.2,1,12.2
+2002,Orlando Magic,35,5,1.4
+2002,Philadelphia 76ers,100.8,6,2.8
+2002,Portland Trail Blazers,0,6,0
+2002,Sacramento Kings,51.2,1,11.2
+2002,San Antonio Spurs,40.8,2,5.2
+2002,Seattle Supersonics,137.2,7,2.8
+2002,Toronto Raptors,137.2,7,2.8
+2002,Utah Jazz,89.6,8,1.4
+2003,Boston Celtics,164,6,4
+2003,Dallas Mavericks,130,3,10
+2003,Detroit Pistons,48,1,8
+2003,Indiana Pacers,18,3,2
+2003,Los Angeles Lakers,170,5,6
+2003,Milwaukee Bucks,98,7,2
+2003,Minnesota Timberwolves,32,4,2
+2003,New Jersey Nets,116,2,14
+2003,New Orleans Hornets,50,5,2
+2003,Orlando Magic,192,8,3
+2003,Philadelphia 76ers,116,4,6
+2003,Phoenix Suns,128,8,2
+2003,Portland Trail Blazers,108,6,3
+2003,Sacramento Kings,48,2,7
+2003,San Antonio Spurs,96,1,16
+2003,Utah Jazz,49,7,1
+2004,Boston Celtics,0,8,0
+2004,Dallas Mavericks,25,5,1
+2004,Denver Nuggets,64,8,1
+2004,Detroit Pistons,224,3,16
+2004,Houston Rockets,49,7,1
+2004,Indiana Pacers,50,1,10
+2004,Los Angeles Lakers,112,2,13
+2004,Memphis Grizzlies,0,6,0
+2004,Miami Heat,116,4,6
+2004,Milwaukee Bucks,36,6,1
+2004,Minnesota Timberwolves,50,1,10
+2004,New Jersey Nets,48,2,7
+2004,New Orleans Hornets,75,5,3
+2004,New York Knicks,0,7,0
+2004,Sacramento Kings,132,4,7
+2004,San Antonio Spurs,74,3,6
+2005,Boston Celtics,27,3,3
+2005,Chicago Bulls,32,4,2
+2005,Dallas Mavericks,116,4,6
+2005,Denver Nuggets,49,7,1
+2005,Detroit Pistons,120,2,15
+2005,Houston Rockets,75,5,3
+2005,Indiana Pacers,236,6,6
+2005,Memphis Grizzlies,0,8,0
+2005,Miami Heat,51,1,11
+2005,New Jersey Nets,0,8,0
+2005,Philadelphia 76ers,49,7,1
+2005,Phoenix Suns,49,1,9
+2005,Sacramento Kings,36,6,1
+2005,San Antonio Spurs,144,2,16
+2005,Seattle Supersonics,74,3,6
+2005,Washington Wizards,120,5,4
+2006,Chicago Bulls,98,7,2
+2006,Cleveland Cavaliers,132,4,7
+2006,Dallas Mavericks,284,4,14
+2006,Denver Nuggets,9,3,1
+2006,Detroit Pistons,50,1,10
+2006,Indiana Pacers,72,6,2
+2006,Los Angeles Clippers,272,6,7
+2006,Los Angeles Lakers,147,7,3
+2006,Memphis Grizzlies,0,5,0
+2006,Miami Heat,144,2,16
+2006,Milwaukee Bucks,64,8,1
+2006,New Jersey Nets,65,3,5
+2006,Phoenix Suns,80,2,10
+2006,Sacramento Kings,128,8,2
+2006,San Antonio Spurs,27,1,7
+2006,Washington Wizards,50,5,2
+2007,Chicago Bulls,170,5,6
+2007,Cleveland Cavaliers,108,2,12
+2007,Dallas Mavericks,2,1,2
+2007,Denver Nuggets,36,6,1
+2007,Detroit Pistons,50,1,10
+2007,Golden State Warriors,340,8,5
+2007,Houston Rockets,75,5,3
+2007,Los Angeles Lakers,49,7,1
+2007,Miami Heat,0,4,0
+2007,New Jersey Nets,236,6,6
+2007,Orlando Magic,0,8,0
+2007,Phoenix Suns,44,2,6
+2007,San Antonio Spurs,224,3,16
+2007,Toronto Raptors,18,3,2
+2007,Utah Jazz,184,4,9
+2007,Washington Wizards,0,7,0
+2008,Atlanta Hawks,192,8,3
+2008,Boston Celtics,96,1,16
+2008,Cleveland Cavaliers,132,4,7
+2008,Dallas Mavericks,49,7,1
+2008,Denver Nuggets,0,8,0
+2008,Detroit Pistons,80,2,10
+2008,Houston Rockets,50,5,2
+2008,Los Angeles Lakers,74,1,14
+2008,New Orleans Hornets,48,2,7
+2008,Orlando Magic,65,3,5
+2008,Philadelphia 76ers,98,7,2
+2008,Phoenix Suns,36,6,1
+2008,San Antonio Spurs,121,3,9
+2008,Toronto Raptors,36,6,1
+2008,Utah Jazz,116,4,6
+2008,Washington Wizards,50,5,2
+2009,Atlanta Hawks,84,4,4
+2009,Boston Celtics,48,2,7
+2009,Chicago Bulls,147,7,3
+2009,Cleveland Cavaliers,50,1,10
+2009,Dallas Mavericks,200,6,5
+2009,Denver Nuggets,80,2,10
+2009,Detroit Pistons,0,8,0
+2009,Houston Rockets,195,5,7
+2009,Los Angeles Lakers,96,1,16
+2009,Miami Heat,75,5,3
+2009,New Orleans Hornets,49,7,1
+2009,Orlando Magic,177,3,13
+2009,Philadelphia 76ers,72,6,2
+2009,Portland Trail Blazers,32,4,2
+2009,San Antonio Spurs,9,3,1
+2009,Utah Jazz,64,8,1
+2010,Atlanta Hawks,56,3,4
+2010,Boston Celtics,300,4,15
+2010,Charlotte Bobcats,0,7,0
+2010,Chicago Bulls,64,8,1
+2010,Cleveland Cavaliers,26,1,6
+2010,Dallas Mavericks,8,2,2
+2010,Denver Nuggets,32,4,2
+2010,Los Angeles Lakers,96,1,16
+2010,Miami Heat,25,5,1
+2010,Milwaukee Bucks,108,6,3
+2010,Oklahoma City Thunder,128,8,2
+2010,Orlando Magic,80,2,10
+2010,Phoenix Suns,130,3,10
+2010,Portland Trail Blazers,72,6,2
+2010,San Antonio Spurs,216,7,4
+2010,Utah Jazz,120,5,4
+2011,Atlanta Hawks,170,5,6
+2011,Boston Celtics,65,3,5
+2011,Chicago Bulls,49,1,9
+2011,Dallas Mavericks,224,3,16
+2011,Denver Nuggets,25,5,1
+2011,Indiana Pacers,64,8,1
+2011,Los Angeles Lakers,36,2,4
+2011,Memphis Grizzlies,468,8,7
+2011,Miami Heat,116,2,14
+2011,New Orleans Hornets,98,7,2
+2011,New York Knicks,0,6,0
+2011,Oklahoma City Thunder,184,4,9
+2011,Orlando Magic,32,4,2
+2011,Philadelphia 76ers,49,7,1
+2011,Portland Trail Blazers,72,6,2
+2011,San Antonio Spurs,2,1,2
+2012,Atlanta Hawks,50,5,2
+2012,Boston Celtics,216,4,11
+2012,Chicago Bulls,2,1,2
+2012,Dallas Mavericks,0,7,0
+2012,Denver Nuggets,108,6,3
+2012,Indiana Pacers,74,3,6
+2012,Los Angeles Clippers,120,5,4
+2012,Los Angeles Lakers,65,3,5
+2012,Memphis Grizzlies,48,4,3
+2012,Miami Heat,144,2,16
+2012,New York Knicks,49,7,1
+2012,Oklahoma City Thunder,112,2,13
+2012,Orlando Magic,36,6,1
+2012,Philadelphia 76ers,468,8,7
+2012,San Antonio Spurs,50,1,10
+2012,Utah Jazz,0,8,0
+2013,Atlanta Hawks,72,6,2
+2013,Boston Celtics,98,7,2
+2013,Brooklyn Nets,48,4,3
+2013,Chicago Bulls,145,5,5
+2013,Denver Nuggets,18,3,2
+2013,Golden State Warriors,236,6,6
+2013,Houston Rockets,128,8,2
+2013,Indiana Pacers,139,3,11
+2013,Los Angeles Clippers,32,4,2
+2013,Los Angeles Lakers,0,7,0
+2013,Memphis Grizzlies,240,5,8
+2013,Miami Heat,96,1,16
+2013,Milwaukee Bucks,0,8,0
+2013,New York Knicks,44,2,6
+2013,Oklahoma City Thunder,25,1,5
+2013,San Antonio Spurs,120,2,15
+2014,Atlanta Hawks,192,8,3
+2014,Brooklyn Nets,200,6,5
+2014,Charlotte Bobcats,0,7,0
+2014,Chicago Bulls,16,4,1
+2014,Dallas Mavericks,192,8,3
+2014,Golden State Warriors,108,6,3
+2014,Houston Rockets,32,4,2
+2014,Indiana Pacers,50,1,10
+2014,L.A. Clippers,83,3,7
+2014,Memphis Grizzlies,147,7,3
+2014,Miami Heat,112,2,13
+2014,Oklahoma City Thunder,72,2,8
+2014,Portland Trail Blazers,145,5,5
+2014,San Antonio Spurs,96,1,16
+2014,Toronto Raptors,27,3,3
+2014,Washington Wizards,170,5,6
+2015,ATL,48,1,8
+2015,BOS,0,,0
+2015,BRK,128,8,2
+2015,CHI,74,3,6
+2015,CLE,116,2,14
+2015,DAL,0,,1
+2015,GSW,96,1,16
+2015,HOU,76,2,9
+2015,LAC,83,3,7
+2015,MEM,170,5,6
+2015,MIL,0,,2
+2015,NOP,0,,0
+2015,POR,0,,1
+2015,SAS,0,,3
+2015,TOR,0,4,0
+2015,WAS,170,5,6
+2016,ATL,84,4,4
+2016,BOS,50,5,2
+2016,CHA,108,6,3
+2016,CLE,96,1,16
+2016,DAL,36,6,1
+2016,DET,0,8,0
+2016,GSW,71,,15
+2016,HOU,64,8,1
+2016,IND,147,7,3
+2016,LAC,32,4,2
+2016,MEM,0,7,0
+2016,MIA,32,,7
+2016,OKC,139,3,11
+2016,POR,145,5,5
+2016,SAS,44,2,6
+2016,TOR,80,2,10
+2017,ATL,50,5,2
+2017,BOS,49,1,9
+2017,CHI,128,8,2
+2017,CLE,112,2,13
+2017,GSW,96,1,16
+2017,HOU,74,3,6
+2017,IND,0,7,0
+2017,LAC,48,4,3
+2017,MEM,98,7,2
+2017,MIL,72,6,2
+2017,OKC,64,8,1
+2017,POR,0,8,0
+2017,SAS,72,2,8
+2017,TOR,56,3,4
+2017,UTA,120,5,4
+2017,WAS,132,4,7
+2018,BOS,84,2,11
+2018,CLE,252,4,12
+2018,GSW,144,2,16
+2018,HOU,51,1,11
+2018,IND,75,5,3
+2018,MIA,36,6,1
+2018,MIL,147,7,3
+2018,MIN,64,8,1
+2018,NOP,200,6,5
+2018,OKC,32,4,2
+2018,PHI,65,3,5
+2018,POR,0,3,0
+2018,SAS,49,7,1
+2018,TOR,24,1,4
+2018,UTA,145,5,5
+2018,WAS,128,8,2
+2019,BOS,100,4,5
+2019,BRK,36,6,1
+2019,DEN,48,2,7
+2019,DET,0,8,0
+2019,GSW,74,1,14
+2019,HOU,116,4,6
+2019,IND,0,5,0
+2019,LAC,128,8,2
+2019,MIL,50,1,10
+2019,OKC,36,6,1
+2019,ORL,49,7,1
+2019,PHI,83,3,7
+2019,POR,112,3,8
+2019,SAS,147,7,3
+2019,TOR,144,2,16
+2019,UTA,25,5,1
+2020,BOS,130,3,10
+2020,BRK,0,7,0
+2020,DAL,98,7,2
+2020,DEN,121,3,9
+2020,HOU,100,4,5
+2020,IND,0,4,0
+2020,LAC,48,2,7
+2020,LAL,96,1,16
+2020,MIA,410,5,14
+2020,MIL,25,1,5
+2020,OKC,75,5,3
+2020,ORL,64,8,1
+2020,PHI,0,6,0
+2020,POR,64,8,1
+2020,TOR,48,2,7
+2020,UTA,108,6,3

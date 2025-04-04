@@ -1,0 +1,99 @@
+Hey guys, I came up with a fun, easy way to gamble illegally on the NBA playoffs.  this involved scraping the web and processing 50 years of playoffs history and analyzing the patterns of how each seed does in the playoffs over time, then experimenting with different scoring systems to find one that's balanced.  
+
+But all you have to do is pick four teams!
+
+Here's how it works:
+
+The Playoffs Game: a fun, easy way to gamble on the playoffs
+===============================================
+
+You pick 4 teams before the playoffs begin, and each gets a score based on how well they do.
+You are encouraged to think about which teams will over-perform expectations, because lower
+seeded teams will score many more points for each win than highly seeded teams.
+
+Obviously, you don't want your teams to play each other too early, so most people will probably want to pick like this:
+One team from the Western Conference seeded 1, 4, 5, or 8
+One team from the Western Conference seeded 2, 3, 6, or 7
+One team from the Eastern Conference seeded 1, 4, 5, or 8
+One team from the Eastern Conference seeded 2, 3, 6, or 7
+
+As the playoffs proceed, you'll know that your total score is going up every time one of your teams wins a game, plus a bonus every time they win a series!
+
+
+How to play:
+==========
+
+Just email your four teams to wheeler.benjamin@gmail.com , and paypal me $10 at this address, before the first day that the playoffs start.
+Example:
+
+Subject: playoffs
+Content: Spurs, OKC, Celtics, Cavs
+
+
+
+How scoring works:
+===============
+
+Each team's score =
+     (seed number squared) times ( number of wins in entire playoffs)
+     plus bonuses for winning each round:
+     round 1: 20 points
+     round 2: 20 points
+     conf champs: 40 points
+     finals champs: 60 points    
+
+Historically, teams have averaged about 90 points each using this system.
+
+So, for example, the 2014 Heat, a second seed, won rounds 1 and 2 and the conference championship, but lost to the Spurs in the finals, 4-1.
+So their point total was:
+     (seed 2*2) * (13 wins) = 52
+     plus bonuses for winning each round:
+     round 1: 20 points
+     round 2: 20 points
+     conf champs: 40 points
+     Total: 132 points
+
+...much better than the Pacers, a first seed, which only won two rounds and 10 games total:
+    (1*1) * (10 wins) = 10
+     plus bonuses for winning each round:
+     round 1: 20 points
+     round 2: 20 points
+     Total: 50 points
+
+...but not as good as the Blazers, a fifth seed, which won a series as a slight underdog, but only 5 games total:
+    (5*5) * (5 wins) = 125
+    round 1 bonus: 20 points
+    Total: 145 points
+
+...or the Hawks, an eighth seed, which took the first seed Pacers to seven games:
+    (8*8) * (3 wins) = 192 points
+    Total: 192 points
+
+So a heavily favored first seed will probably get you points, but not as many points as a lower seeded team that over performs.
+The scoring system has been configured so that historically, each seed number has produced an average of about 90 points.
+
+Pop quiz: which 1999 team and which 2010 team would have scored crazy high using this system?
+
+
+Finals bonus:
+===========
+
+To keep it fun for people whose teams lose early, anyone can predict the outcome of the finals once the conference finals are over.
+
+Up until finals game 1 day, you can declare your prediction for the win-loss of the finals:
+
+get it right: 200 points
+if you predict 5 or 6 games and you are off by 1 game: 50 points
+if you predicted a sweep or 7 games and are off by 1 (but still correctly predict the winner): 75 points
+(this is so that people aren't incentivized to hedge their bets too much)
+
+
+Winners:
+=======
+
+Highest score: 60% of pot
+2nd highest score: 25% of pot
+3rd highest score: 15% of pot
+
+
+
