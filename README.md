@@ -60,7 +60,7 @@ If I provide you with this 202X summary: (paste content, or screenshot of bracke
 
 
 2. run command to convert history.csv to sums.csv (total score for each team-year):
-```
+```bash
 sed -e 's/#.*//' -e '/^$/ d' history.csv | awk -F, 'BEGIN {playin_bonus = 20; round1_bonus = 40; round2_bonus = 40; conf_bonus = 40; champ_bonus = 40 } {year = $1; rounds = $2; round = $3; best_of = $4; team = $5; seed_num = $6; wins = $7; adj_wins = wins; if (round > 0) {adj_wins = 7.0 * wins / best_of}; won = 0; if (best_of != "?" && wins > best_of / 2.0) {won = 1}; score = 0; if (won && round == rounds) {score += champ_bonus}; if (won && round == rounds - 1) {score += conf_bonus}; if (won && round == rounds - 2) {score += round2_bonus}; if (won && round == rounds - 3) {score += round1_bonus}; if (round == 1 && rounds < 4) {adj_wins += 4; score += round1_bonus}; if (round == 1 && rounds < 3) {adj_wins += 4; score += round2_bonus}; if (round == 0) {score += playin_bonus * wins}; score += seed_num^2 * adj_wins; team_year = year "," team; seed[team_year] = seed_num; total_wins[team_year] += adj_wins; total_score[team_year] += score; } END {print "# year,team,score,seed,numwins"; for (team_year in total_score){this_score = total_score[team_year]; this_conf_bonus = 0; this_champ_bonus = 0; this_wins = total_wins[team_year];  print team_year "," this_score "," seed[team_year] "," this_wins} }'  | sort -t, -n -k 2 > sums.csv
 ```
 3. run command to summarize the sums.csv team-year scores by seed, and show average score for each seed:
