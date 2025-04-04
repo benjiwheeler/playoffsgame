@@ -1,6 +1,63 @@
-annual update:
+# The Playoffs Game
 
-1. update history.csv with latest results
+Historical research to support a simple game design for a playoffs betting pool
+
+## updating historical data
+
+Goal is to be able to see what the expected value is of each seed number, given a set of rules.
+
+1. manually update history.csv with latest results
+
+Suggested prompt: 
+
+```
+You said:
+I am collecting a summary of NBA playoff history in a csv format. My format is:
+
+year,round_num,team_name,seed_num,games_won
+
+where games_won is the total number of games the team won in the playoffs, across all four rounds.
+
+E.g., here are my rows for the 2020 playoffs:
+
+2020,1,MIL,1,4
+2020,1,ORL,8,1
+2020,1,IND,4,0
+2020,1,MIA,5,4
+2020,1,BOS,3,4
+2020,1,PHI,6,0
+2020,1,TOR,2,4
+2020,1,BRK,7,0
+2020,1,LAL,1,4
+2020,1,POR,8,1
+2020,1,HOU,4,4
+2020,1,OKC,5,3
+2020,1,DEN,3,4
+2020,1,UTA,6,3
+2020,1,LAC,2,4
+2020,1,DAL,7,2
+2020,2,MIL,1,1
+2020,2,MIA,5,4
+2020,2,BOS,3,4
+2020,2,TOR,2,3
+2020,2,LAL,1,4
+2020,2,HOU,4,1
+2020,2,LAC,2,3
+2020,2,DEN,3,4
+2020,3,MIA,5,4
+2020,3,BOS,3,2
+2020,3,LAL,1,4
+2020,3,DEN,3,1
+2020,4,MIA,5,2
+2020,4,LAL,1,4
+
+Does this format make sense?
+
+If I provide you with this 202X summary: (paste content, or screenshot of bracket)
+...can you produce the csv rows I need?
+```
+
+
 
 2. run command to convert history.csv to sums.csv (total score for each team-year):
 ```
